@@ -1,0 +1,29 @@
+# 🏛️ Official Scientific Research Publications & ORCID Dossier Index
+
+**Principal Scientist & Systems Architect:** **HM Shihabuddin Jashory (Shihab)**  
+**ORCID iD:** [0009-0003-4163-0092](https://orcid.org/0009-0003-4163-0092)  
+**Institution:** University of the People (Pasadena, California, USA — Student ID: **C211345610**) & Vision Flow Group (Research & Security Division)  
+**Public Open-Access Repository:** [https://github.com/jashory/hqas8-autonomous-agentic-governance](https://github.com/jashory/hqas8-autonomous-agentic-governance)  
+**Official Peer-Citable Release (v1.0.0):** [https://github.com/jashory/hqas8-autonomous-agentic-governance/releases/tag/v1.0.0](https://github.com/jashory/hqas8-autonomous-agentic-governance/releases/tag/v1.0.0)  
+**Google Scholar Meta-Indexed Research Portal:** [https://jashory.github.io/hqas8-autonomous-agentic-governance/](https://jashory.github.io/hqas8-autonomous-agentic-governance/)
+
+---
+
+## 📄 1. Published Scientific Monograph & Peer-Citable Technical Reports
+
+| # | Publication Title | Report ID | Pages | Verified Vault File | Live Open-Access URL |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **01** | **Hierarchical Multi-Agent Verification and Dual-Axis 8-Layer Autonomous Governance (HQAS-8): Eliminating Hallucination, Context Drift, and Unverified Execution in Large Language Model Pipelines** | **VF-AI-ARCH-2026-001** | 6 Pages | [01_Paper_Dual_Axis_8_Layer_Autonomous_Agentic_Governance_Architecture_HM_Shihabuddin_Jashory_2026.pdf](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/01_Paper_Dual_Axis_8_Layer_Autonomous_Agentic_Governance_Architecture_HM_Shihabuddin_Jashory_2026.pdf) | [Live PDF on GitHub Pages](https://jashory.github.io/hqas8-autonomous-agentic-governance/papers/01_Paper_Dual_Axis_8_Layer_Autonomous_Agentic_Governance_Architecture_HM_Shihabuddin_Jashory_2026.pdf) |
+| **02** | **Empirical Security Analysis of Production AI Agent Frameworks, Cloud Data Pipelines, and Multimodal Trajectory Poisoning: OAuth Token Exfiltration, SSRF, and Pre-Tool Cryptographic Sandboxing** | **VF-SEC-VRP-2026-002** | 3 Pages | [02_Paper_Empirical_Security_Analysis_of_AI_Agent_Frameworks_OAuth_and_SSRF_HM_Shihabuddin_Jashory_2026.pdf](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/02_Paper_Empirical_Security_Analysis_of_AI_Agent_Frameworks_OAuth_and_SSRF_HM_Shihabuddin_Jashory_2026.pdf) | [Live PDF on GitHub Pages](https://jashory.github.io/hqas8-autonomous-agentic-governance/papers/02_Paper_Empirical_Security_Analysis_of_AI_Agent_Frameworks_OAuth_and_SSRF_HM_Shihabuddin_Jashory_2026.pdf) |
+| **03** | **Deterministic Multimodal Quality Control for Generative Video Pipelines: Automated Word-Level Whisper Alignment, Sub-Frame Boundary De-Glitching, and Non-Destructive NLE Synthesis** | **VF-MM-QC-2026-003** | 3 Pages | [03_Paper_Automated_Multimodal_Video_QC_and_Audio_DeGlitching_HM_Shihabuddin_Jashory_2026.pdf](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/03_Paper_Automated_Multimodal_Video_QC_and_Audio_DeGlitching_HM_Shihabuddin_Jashory_2026.pdf) | [Live PDF on GitHub Pages](https://jashory.github.io/hqas8-autonomous-agentic-governance/papers/03_Paper_Automated_Multimodal_Video_QC_and_Audio_DeGlitching_HM_Shihabuddin_Jashory_2026.pdf) |
+| **04** | **Architectural Poster: Dual-Axis 8-Layer Autonomous Agentic Verification & Governance Architecture (HQAS-8)** | **VF-POSTER-2026-004** | High-Res PDF & PNG | [04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.pdf](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.pdf) | [Poster PNG](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.png) |
+
+---
+
+## 🔬 2. Scientific Heritage & Intellectual Foundation
+
+The **HQAS-8** monograph explicitly grounds its methodology in the classical Muslim scientific tradition:
+- **Al-Khwarizmi (c. 780–850 CE):** Formalized algorithmic decomposition (*Al-Jabr* and finite deterministic state transitions), inspiring HQAS-8's atomic task decomposition and state-machine boundaries.
+- **Ibn al-Haytham (Alhazen, 965–1040 CE):** Established the empirical scientific method (*Kitab al-Manazir* — *Book of Optics*), proving that theoretical claims are invalid without independent physical verification (*I'tibar*), directly inspiring HQAS-8's Pre-Tool/Post-Tool Execution Gate (**Layer B3**).
+- **Ibn Sina (Avicenna, 980–1037 CE):** Structured diagnostic taxonomy and causal chain analysis (*Al-Qanun fi al-Tibb*), inspiring HQAS-8's lifelong anti-regression mistake ledger (**Layer B4 — Hermes Experience Memory**).
+- **Al-Jazari (1136–1206 CE):** Pioneered feedback-controlled mechanical automation and self-regulating valves (*Kitab fi Ma'rifat al-Hiyal al-Handasiyya*), inspiring HQAS-8's closed-loop heartbeat supervision (**Layer A2–A4**).
