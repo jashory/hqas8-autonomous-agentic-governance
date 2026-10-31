@@ -1,0 +1,23 @@
+{
+  "title": "Dual-Axis 8-Layer Autonomous Agentic Governance: Eliminating Cascading Hallucinations and Supervisor Drift via Deterministic Termination Hooks and Quad-Tier Supervision",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "publication_date": "2026-10-31",
+  "creators": [
+    {
+      "name": "Jashory, HM Shihabuddin",
+      "affiliation": "Vision Flow Research Lab & University of the People",
+      "orcid": "0009-0003-4163-0092"
+    }
+  ],
+  "description": "Official research publication and technical specification of the Dual-Axis 8-Layer Autonomous Agentic Verification and Governance Architecture (HQAS-8) by HM Shihabuddin Jashory.",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Autonomous AI Agents",
+    "Multi-Agent Supervision",
+    "Deterministic Hooks",
+    "AI Security",
+    "HM Shihabuddin Jashory"
+  ]
+}

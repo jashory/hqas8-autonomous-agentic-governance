@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or reference this architecture or security research, please cite it using the metadata below."
+title: "Dual-Axis 8-Layer Autonomous Agentic Governance: Eliminating Cascading Hallucinations and Supervisor Drift via Deterministic Termination Hooks and Quad-Tier Supervision"
+version: 1.0.0
+date-released: 2026-10-31
+url: "https://github.com/jashory/hqas8-autonomous-agentic-governance"
+repository-code: "https://github.com/jashory/hqas8-autonomous-agentic-governance"
+license: CC-BY-4.0
+authors:
+  - family-names: "Jashory"
+    given-names: "HM Shihabuddin"
+    orcid: "https://orcid.org/0009-0003-4163-0092"
+    affiliation: "Vision Flow Research Lab & Department of Computer Science, University of the People"
+keywords:
+  - "Autonomous AI Agents"
+  - "Multi-Agent Systems"
+  - "Hallucination Elimination"
+  - "Hierarchical Supervision"
+  - "Cybersecurity"
+  - "LLM Governance"
