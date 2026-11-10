@@ -19,6 +19,11 @@
 | **05** | **Research Monograph (PDF)** | *Zero-Bloat Post-Compaction Trajectory Digest and Three-Gear Multimodal Verification Architecture for Long-Horizon Autonomous AI Agents (`AMCG-3`)* | [**`10.5281/zenodo.24096896`**](https://doi.org/10.5281/zenodo.24096896) | `05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_Architecture_HM_Shihabuddin_Jashory_2026.pdf` |
 | **06** | **Conference Poster (PDF)** | *AMCG-3 Executive Systems Architecture Poster: Eliminating Lost-in-the-Middle Context Amnesia, Shortcut Hallucinations, and Unverified Multimodal Outputs* | [**`10.5281/zenodo.24097022`**](https://doi.org/10.5281/zenodo.24097022) | `06_Poster_AMCG_3_Anti_Compaction_and_Multimodal_Verification_Architecture_HM_Shihabuddin_Jashory_2026.pdf` |
 
+### Official OSF Preprints (MetaArXiv) Live Preprint Records (5-Page Two-Column IEEE Format)
+- **Paper #01 (`HQAS-8`)**: [https://osf.io/preprints/metaarxiv/vq8se_v1](https://osf.io/preprints/metaarxiv/vq8se_v1) (`https://osf.io/vq8se`)
+- **Paper #02 (`AI Agent & Flight-Software Security`)**: [https://osf.io/preprints/metaarxiv/8ck3b_v1](https://osf.io/preprints/metaarxiv/8ck3b_v1) (`https://osf.io/8ck3b`)
+- **Paper #05 (`AMCG-3 Trajectory Digest & 3-Gear Multimodal Gate`)**: [https://osf.io/preprints/metaarxiv/54ndv_v1](https://osf.io/preprints/metaarxiv/54ndv_v1) (`https://osf.io/54ndv`)
+
 ---
 
 ## 🛡️ 2. Verified Security Disclosures & Upstream Contributions Linked on ORCID (`0009-0003-4163-0092`)
