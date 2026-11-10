@@ -1,31 +1,31 @@
-# 🏛️ Official Scientific Research Publications & ORCID Dossier Index
+# 🏛️ Official Scientific Research Publications, CERN Zenodo DOIs, NASA JPL Advisory & ORCID Dossier Index
 
-**Principal Scientist & Systems Architect:** **HM Shihabuddin Jashory (Shihab)**  
-**ORCID iD:** [0009-0003-4163-0092](https://orcid.org/0009-0003-4163-0092)  
-**Institution:** University of the People (Pasadena, California, USA — Student ID: **C211345610**) & Vision Flow Group (Research & Security Division)  
-**Public Open-Access Repository:** [https://github.com/jashory/hqas8-autonomous-agentic-governance](https://github.com/jashory/hqas8-autonomous-agentic-governance)  
-**Official Peer-Citable Release (v1.0.0):** [https://github.com/jashory/hqas8-autonomous-agentic-governance/releases/tag/v1.0.0](https://github.com/jashory/hqas8-autonomous-agentic-governance/releases/tag/v1.0.0)  
-**Google Scholar Meta-Indexed Research Portal:** [https://jashory.github.io/hqas8-autonomous-agentic-governance/](https://jashory.github.io/hqas8-autonomous-agentic-governance/)
-
----
-
-## 📄 1. Published Scientific Monograph & Peer-Citable Technical Reports
-
-| # | Publication Title | Report ID | Pages | Verified Vault File | Live Open-Access URL |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **01** | **Hierarchical Multi-Agent Verification and Dual-Axis 8-Layer Autonomous Governance (HQAS-8): Eliminating Hallucination, Context Drift, and Unverified Execution in Large Language Model Pipelines** | **VF-AI-ARCH-2026-001** | 6 Pages | [01_Paper_Dual_Axis_8_Layer_Autonomous_Agentic_Governance_Architecture_HM_Shihabuddin_Jashory_2026.pdf](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/01_Paper_Dual_Axis_8_Layer_Autonomous_Agentic_Governance_Architecture_HM_Shihabuddin_Jashory_2026.pdf) | [Live PDF on GitHub Pages](https://jashory.github.io/hqas8-autonomous-agentic-governance/papers/01_Paper_Dual_Axis_8_Layer_Autonomous_Agentic_Governance_Architecture_HM_Shihabuddin_Jashory_2026.pdf) |
-| **02** | **Empirical Security Analysis of Production AI Agent Frameworks, Cloud Data Pipelines, and Multimodal Trajectory Poisoning: OAuth Token Exfiltration, SSRF, and Pre-Tool Cryptographic Sandboxing** | **VF-SEC-VRP-2026-002** | 3 Pages | [02_Paper_Empirical_Security_Analysis_of_AI_Agent_Frameworks_OAuth_and_SSRF_HM_Shihabuddin_Jashory_2026.pdf](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/02_Paper_Empirical_Security_Analysis_of_AI_Agent_Frameworks_OAuth_and_SSRF_HM_Shihabuddin_Jashory_2026.pdf) | [Live PDF on GitHub Pages](https://jashory.github.io/hqas8-autonomous-agentic-governance/papers/02_Paper_Empirical_Security_Analysis_of_AI_Agent_Frameworks_OAuth_and_SSRF_HM_Shihabuddin_Jashory_2026.pdf) |
-| **03** | **Deterministic Multimodal Quality Control for Generative Video Pipelines: Automated Word-Level Whisper Alignment, Sub-Frame Boundary De-Glitching, and Non-Destructive NLE Synthesis** | **VF-MM-QC-2026-003** | 3 Pages | [03_Paper_Automated_Multimodal_Video_QC_and_Audio_DeGlitching_HM_Shihabuddin_Jashory_2026.pdf](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/03_Paper_Automated_Multimodal_Video_QC_and_Audio_DeGlitching_HM_Shihabuddin_Jashory_2026.pdf) | [Live PDF on GitHub Pages](https://jashory.github.io/hqas8-autonomous-agentic-governance/papers/03_Paper_Automated_Multimodal_Video_QC_and_Audio_DeGlitching_HM_Shihabuddin_Jashory_2026.pdf) |
-| **04** | **Architectural Poster: Dual-Axis 8-Layer Autonomous Agentic Verification & Governance Architecture (HQAS-8)** | **VF-POSTER-2026-004** | High-Res PDF & PNG | [04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.pdf](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.pdf) | [Poster PNG](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.png) |
-| **05** | **Eliminating Auto-Compaction Amnesia and Unverified Execution in Autonomous LLM Agents: UTF-8 Byte-Bounded Trajectory Digest Synthesis, Anti-Bypass Hook Locks, and 3-Gear Multimodal Quality Gates (AMCG-3)** | **VF-AI-MEM-2026-005** | 5 Pages | [05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_HM_Shihabuddin_Jashory_2026.pdf](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_HM_Shihabuddin_Jashory_2026.pdf) | [Live PDF on GitHub Pages](https://jashory.github.io/hqas8-autonomous-agentic-governance/papers/05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_HM_Shihabuddin_Jashory_2026.pdf) |
-| **06** | **Architectural Poster: AMCG-3 Unified Anti-Compaction Digest & 3-Gear Multimodal Verification Engine** | **VF-POSTER-2026-006** | High-Res PDF & PNG | [06_Diagram_Unified_3_Gear_Anti_Compaction_and_Multimodal_Engine_HM_Shihabuddin_Jashory.pdf](file:///D:/Certifications/Shihab_Master_Certificates_Vault/19_Published_Scientific_Papers_and_ORCID_Research_Dossiers/06_Diagram_Unified_3_Gear_Anti_Compaction_and_Multimodal_Engine_HM_Shihabuddin_Jashory.pdf) | [Poster PNG](https://jashory.github.io/hqas8-autonomous-agentic-governance/papers/06_Diagram_Unified_3_Gear_Anti_Compaction_and_Multimodal_Engine_HM_Shihabuddin_Jashory.png) |
+**Principal Investigator & Author:** **HM Shihabuddin Jashory** (`Shihab`)  
+**Affiliation:** Founder, CEO & Principal Systems Architect — **Vision Flow Group** (`Vision Flow Agency`, `Vision Flow Studio`, `Vision Flow Academy`)  
+**Official Verified ORCID iD:** [`0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092)  
+**Google Bug Hunters / VRP Profile:** [`bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d`](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d)  
+**Open Research Monograph Portal:** [`jashory.github.io/hqas8-autonomous-agentic-governance`](https://jashory.github.io/hqas8-autonomous-agentic-governance/)
 
 ---
 
-## 🔬 2. Scientific Heritage & Intellectual Foundation
+## 📚 1. Peer-Archivable Scientific Monographs & Posters (6 Official CERN Zenodo DOIs)
 
-The **HQAS-8** monograph explicitly grounds its methodology in the classical Muslim scientific tradition:
-- **Al-Khwarizmi (c. 780–850 CE):** Formalized algorithmic decomposition (*Al-Jabr* and finite deterministic state transitions), inspiring HQAS-8's atomic task decomposition and state-machine boundaries.
-- **Ibn al-Haytham (Alhazen, 965–1040 CE):** Established the empirical scientific method (*Kitab al-Manazir* — *Book of Optics*), proving that theoretical claims are invalid without independent physical verification (*I'tibar*), directly inspiring HQAS-8's Pre-Tool/Post-Tool Execution Gate (**Layer B3**).
-- **Ibn Sina (Avicenna, 980–1037 CE):** Structured diagnostic taxonomy and causal chain analysis (*Al-Qanun fi al-Tibb*), inspiring HQAS-8's lifelong anti-regression mistake ledger (**Layer B4 — Hermes Experience Memory**).
-- **Al-Jazari (1136–1206 CE):** Pioneered feedback-controlled mechanical automation and self-regulating valves (*Kitab fi Ma'rifat al-Hiyal al-Handasiyya*), inspiring HQAS-8's closed-loop heartbeat supervision (**Layer A2–A4**).
+| # | Type | Title | Official CERN Zenodo DOI | Vault Filename |
+| :--- | :--- | :--- | :--- | :--- |
+| **01** | **Research Monograph (PDF)** | *Dual-Axis 8-Layer Deterministic Governance Architecture for Autonomous Multi-Agent Software Engineering (`HQAS-8`)* | [**`10.5281/zenodo.23832719`**](https://doi.org/10.5281/zenodo.23832719) | `01_Paper_Dual_Axis_8_Layer_Deterministic_Governance_Autonomous_Multi_Agent_HM_Shihabuddin_Jashory_2026.pdf` |
+| **02** | **Research Monograph (PDF)** | *Defense-in-Depth Security Hardening for Autonomous AI CLI Agents and Mission-Critical Flight Software Systems* | [**`10.5281/zenodo.23832725`**](https://doi.org/10.5281/zenodo.23832725) | `02_Paper_Defense_in_Depth_Security_Hardening_Autonomous_AI_CLI_Agents_Flight_Software_HM_Shihabuddin_Jashory_2026.pdf` |
+| **03** | **Research Monograph (PDF)** | *4-File Multimodal Quality Control Gate and Acoustic-Visual Lip-Sync Verification for Autonomous Generative Video Pipelines* | [**`10.5281/zenodo.23832729`**](https://doi.org/10.5281/zenodo.23832729) | `03_Paper_4_File_Multimodal_Quality_Control_Gate_Acoustic_Visual_Lip_Sync_Autonomous_Video_HM_Shihabuddin_Jashory_2026.pdf` |
+| **04** | **Conference Poster (PDF)** | *HQAS-8 Architecture Poster: Deterministic Multi-Agent Governance, Offensive AI Security & Multimodal Video QC* | [**`10.5281/zenodo.23832732`**](https://doi.org/10.5281/zenodo.23832732) | `04_Poster_HQAS_8_Deterministic_Multi_Agent_Governance_Architecture_HM_Shihabuddin_Jashory_2026.pdf` |
+| **05** | **Research Monograph (PDF)** | *Zero-Bloat Post-Compaction Trajectory Digest and Three-Gear Multimodal Verification Architecture for Long-Horizon Autonomous AI Agents (`AMCG-3`)* | [**`10.5281/zenodo.24096896`**](https://doi.org/10.5281/zenodo.24096896) | `05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_Architecture_HM_Shihabuddin_Jashory_2026.pdf` |
+| **06** | **Conference Poster (PDF)** | *AMCG-3 Executive Systems Architecture Poster: Eliminating Lost-in-the-Middle Context Amnesia, Shortcut Hallucinations, and Unverified Multimodal Outputs* | [**`10.5281/zenodo.24097022`**](https://doi.org/10.5281/zenodo.24097022) | `06_Poster_AMCG_3_Anti_Compaction_and_Multimodal_Verification_Architecture_HM_Shihabuddin_Jashory_2026.pdf` |
+
+---
+
+## 🛡️ 2. Verified Security Disclosures & Upstream Contributions Linked on ORCID (`0009-0003-4163-0092`)
+
+1. **Google Open Source & Cloud Vulnerability Reward Program (`Google Bug Hunters`)**:
+   - **Published GitHub Security Advisories (`google-gemini/gemini-cli`)**: `GHSA-5r5r-27w9-95hh` (Cross-Scope Cleartext `${ENV_VAR}` Secret Leak, Google Issue Tracker `#577552191`), `GHSA-xwwv-4qpv-w4x4` (Command Injection & Policy Bypass Hardening, merged upstream PRs `#22487` & `#22501`), and `GHSA-fr5f-8j3j-qx2r`.
+   - **Active Google VRP Reports**: `#579166776` (`P1`), `#580130935` (`P2`), `#580032520` (`P2`), `#579287563` (`P2`), plus upstream multi-agent hardening in `google/adk-js#765` and `google/adk-python#4992`.
+2. **NASA Jet Propulsion Laboratory (`nasa/fprime` & `nasa/fprime-gds`)**:
+   - **Official NASA Security Advisory Reporter Credit**: [**`GHSA-pq8v-c63j-wv29`**](https://github.com/nasa/fprime/security/advisories/GHSA-pq8v-c63j-wv29) (Reported by `@jashory` / **HM Shihabuddin Jashory**; upstream remediation committed by NASA collaborator `bitWarrior`).
+   - **Authored NASA Ground Data System PR**: [**`nasa/fprime-gds#384`**](https://github.com/nasa/fprime-gds/pull/384) by `@jashory`.
