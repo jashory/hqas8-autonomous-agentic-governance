@@ -15,7 +15,9 @@
 1. **[Paper 1 (VF-AI-ARCH-2026-001): Dual-Axis 8-Layer Autonomous Agentic Governance: Eliminating Cascading Hallucinations and Supervisor Drift via Deterministic Termination Hooks and Quad-Tier Supervision (PDF)](./papers/01_Paper_Dual_Axis_8_Layer_Autonomous_Agentic_Governance_Architecture_HM_Shihabuddin_Jashory_2026.pdf)**
 2. **[Paper 2 (VF-SEC-VRP-2026-002): Empirical Vulnerability Taxonomy of Autonomous AI Agent Frameworks: Cross-Origin OAuth Token Leakage, OpenAPI SSRF, and Sandbox Escape Vectors (PDF)](./papers/02_Paper_Empirical_Security_Analysis_of_AI_Agent_Frameworks_OAuth_and_SSRF_HM_Shihabuddin_Jashory_2026.pdf)**
 3. **[Paper 3 (VF-MM-QC-2026-003): Deterministic Multimodal Quality Control for Generative Video Pipelines: Automated Cut-Boundary Audio De-Glitching, Word-Level Whisper Alignment, and Dense Contact-Sheet Verification (PDF)](./papers/03_Paper_Automated_Multimodal_Video_QC_and_Audio_DeGlitching_HM_Shihabuddin_Jashory_2026.pdf)**
-4. **[Architecture Poster (High-Resolution Diagram PDF & PNG)](./papers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.png)**
+4. **[Architecture Poster 1 (HQAS-8 High-Resolution Diagram PDF & PNG)](./papers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.png)**
+5. **[Paper 5 (VF-AI-MEM-2026-005 — Nov 10, 2026): Eliminating Auto-Compaction Amnesia and Unverified Execution in Autonomous LLM Agents: UTF-8 Byte-Bounded Trajectory Digest Synthesis, Anti-Bypass Hook Locks, and 3-Gear Multimodal Quality Gates (AMCG-3) (PDF)](./papers/05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_HM_Shihabuddin_Jashory_2026.pdf)**
+6. **[Architecture Poster 2 (VF-POSTER-2026-006): AMCG-3 Unified Anti-Compaction & 3-Gear Multimodal Engine (PDF & PNG)](./papers/06_Diagram_Unified_3_Gear_Anti_Compaction_and_Multimodal_Engine_HM_Shihabuddin_Jashory.png)**
 
 ![HQAS-8 Architecture Poster](./papers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.png)
 
