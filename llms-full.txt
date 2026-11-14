@@ -17,6 +17,7 @@ Canonical Hub: https://jashory.github.io/hqas8-autonomous-agentic-governance/
   - `https://jashory.github.io/mcp-agent-security-auditor/` (CWE-Mapped MCP, Hook & Firebase Rules Static Auditor)
 
 ## 2. Co-Lead Researcher & AI Evaluator: MD Rafiul Islam Shubho
+- Identifiers: ORCID `0009-0009-9956-4511` (`https://orcid.org/0009-0009-9956-4511`), Canonical LinkedIn `https://www.linkedin.com/in/mdrafiulislamshubho/`.
 - Primary Designation: Researcher, AI Evaluator, RLHF/SFT Specialist, Speech-to-Speech (S2S) Arena Quality Auditor, and Co-Founder & Managing Director of Vision Flow Group (`Q141910527`).
 - Core Evaluation Expertise: Reinforcement Learning from Human Feedback (RLHF), Supervised Fine-Tuning (SFT) arena preference ranking, Speech-to-Speech (S2S) acoustic fidelity auditing, bilingual `bn_BD` / `en_US` safety & hallucination evaluation, and GEO/LEO authority architecture.
 - Verified Metrics & Credentials:
