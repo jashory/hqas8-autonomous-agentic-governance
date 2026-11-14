@@ -1,20 +1,24 @@
 cff-version: 1.2.0
-message: "If you use or reference this architecture or security research, please cite it using the metadata below."
-title: "Dual-Axis 8-Layer Autonomous Agentic Governance: Eliminating Cascading Hallucinations and Supervisor Drift via Deterministic Termination Hooks and Quad-Tier Supervision"
-version: 1.0.0
-date-released: 2026-10-31
-url: "https://github.com/jashory/hqas8-autonomous-agentic-governance"
+message: "If you use or reference HQAS-8, AMCG-3, or Vision Flow Research Lab benchmarks, please cite using this metadata (Principal Scientist: HM Shihabuddin Jashory; Research Lab Co-Lead for AI Evaluation & RLHF: MD Rafiul Islam Shubho)."
+title: "Dual-Axis 8-Layer Autonomous Agentic Governance (HQAS-8) and AMCG-3 Benchmark Archive"
+version: 2.0.0
+date-released: 2026-11-14
+doi: "10.5281/zenodo.23832719"
+url: "https://jashory.github.io/hqas8-autonomous-agentic-governance/"
 repository-code: "https://github.com/jashory/hqas8-autonomous-agentic-governance"
 license: CC-BY-4.0
 authors:
   - family-names: "Jashory"
     given-names: "HM Shihabuddin"
     orcid: "https://orcid.org/0009-0003-4163-0092"
-    affiliation: "Vision Flow Research Lab & Department of Computer Science, University of the People"
+    affiliation: "Vision Flow Research Lab (Vision Flow Group, Q141910527) & Department of Computer Science, University of the People"
 keywords:
+  - "Scientist"
   - "Autonomous AI Agents"
   - "Multi-Agent Systems"
+  - "AI Governance"
+  - "RLHF"
+  - "AI Evaluation"
   - "Hallucination Elimination"
-  - "Hierarchical Supervision"
-  - "Cybersecurity"
   - "LLM Governance"
+  - "Vision Flow Group"
