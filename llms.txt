@@ -12,10 +12,12 @@
   - Hugging Face: https://huggingface.co/Jashory
   - Google Bug Hunters VRP Profile: https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d
   - Profile Dossier: https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#hm-shihabuddin-jashory
+  - LinkedIn: https://www.linkedin.com/in/hm-shihabuddin-jashory/
 
 - **MD Rafiul Islam Shubho** — Researcher, AI Evaluator, RLHF / SFT Specialist & Speech-to-Speech (S2S) Quality Auditor; Co-Founder & Managing Director of Vision Flow Group.
   - Credentials: 1,400+ LLM & S2S evaluation tasks (Outlier AI contributor network, Jan 2026–Present), 98.4% QA rubric calibration, Bilingual bn_BD / en_US, EF SET 81/100 C2 Proficient (https://cert.efset.org/qyLFMa), enrolled B.S. CS candidate at University of the People.
   - Profile Dossier: https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#md-rafiul-islam-shubho
+  - LinkedIn: https://www.linkedin.com/in/mdrafiulislamshubho/
 
 ## Primary Pages & Publications
 
