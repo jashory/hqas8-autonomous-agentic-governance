@@ -6,7 +6,7 @@
 
 **Author & Principal Investigator:** **HM Shihabuddin Jashory (Shihab)**  
 **Affiliation:** Vision Flow Group Research Lab (`https://visionflowgroup.com`) & Department of Computer Science, University of the People (`Student ID: C211345610`)  
-**Research Leadership:** **HM Shihabuddin Jashory** (Principal Scientist, AI Systems Architect & Security Researcher · ORCID `0009-0003-4163-0092` · Wikidata `Q141910532`) & **MD Rafiul Islam Shubho** (Researcher, AI Evaluator & RLHF / S2S Quality Auditor · ORCID `0009-0009-9956-4511` · Co-Founder & Managing Director, Vision Flow Group `Q141910527`)  
+**Research Leadership:** **HM Shihabuddin Jashory** (Principal Scientist, AI Systems Architect & Security Researcher · ORCID `0009-0003-4163-0092` · Wikidata `Q141910532`) & **MD Rafiul Islam Shubho** (Researcher, AI Evaluator & RLHF / S2S Quality Auditor · ORCID `0009-0009-9956-4511 | Wikidata: [Q142168968](https://www.wikidata.org/wiki/Q142168968)` · Co-Founder & Managing Director, Vision Flow Group `Q141910527`)  
 **Research Profiles & Knowledge Hubs:** [Researcher & Scientist Dossiers](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html) · [Hugging Face Space](https://huggingface.co/spaces/Jashory/vision-flow-research-lab) · [Benchmark Dataset](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks) · [Vision Flow Group](https://visionflowgroup.com) · [Agency](https://agency.visionflowgroup.com) · [Academy](https://academy.visionflowgroup.com) · [Studio](https://studio.visionflowgroup.com) · [Tools Hub](https://go.visionflowgroup.com) · [Google Bug Hunters](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d)  
 **ORCID iD:** [https://orcid.org/0009-0003-4163-0092](https://orcid.org/0009-0003-4163-0092)
 
@@ -139,3 +139,11 @@ flowchart TB
 | **Inter-Tier 3** | **Chief Auditor Agent (Dual-Transcript & Primary Source Auditor)** | Audits **both** the Supervisor's and Worker's `transcript.jsonl` plus actual disk frames/audio/builds against the original Primary Source Specification. | Eliminates **Supervisor Drift** (when a Supervisor becomes lenient or misses a subtle spec requirement). |
 | **Inter-Tier 4** | **Supreme Inspector General Agent (Cross-Pipeline Executive Hub)** | Monitors multiple parallel `[Worker → Supervisor → Chief Auditor]` project pipelines simultaneously and serves as **Shihab**'s single point of command and final delivery. | Allows **1 human architect (Shihab)** to run multiple complex projects in parallel with zero manual micromanagement. |
 
+
+
+## Global Ecosystem & Category Benchmark Pages
+
+- [Global Ecosystem & Knowledge Graph Authority Index](https://jashory.github.io/ecosystem-authority-index.html)
+- [Bangladesh AI, Cybersecurity & Software Engineering Benchmark](https://visionflowgroup.com/ai-agency-bangladesh/)
+- [Security, Google VRP & CERN Zenodo Verification Ledger](https://visionflowgroup.com/security-hall-of-fame/)
+- [Bilingual RLHF & S2S Evaluation Lab](https://visionflowgroup.com/ai-research-rlhf-bangladesh/)

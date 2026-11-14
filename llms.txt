@@ -1,40 +1,54 @@
-# Vision Flow Research Lab — Autonomous AI Governance, Security & RLHF Evaluation Hub
+# Vision Flow Group — Sovereign AI Engineering, Offensive Security, Commercial VFX & Research Ecosystem
 
-> Authoritative open-access research portal led by Scientist HM Shihabuddin Jashory and AI Evaluator / RLHF Researcher MD Rafiul Islam Shubho under Vision Flow Group (Wikidata: Q141910527).
+> Canonical Motherbrand: https://visionflowgroup.com/ | Wikidata: https://www.wikidata.org/wiki/Q141910527 | Location: Dhaka, Bangladesh (Serving 15+ Countries)
 
-## Principal Research Entities
+Vision Flow Group is a Bangladeshi artificial intelligence research, RLHF/S2S evaluation, offensive AI cybersecurity, full-stack software/SaaS, commercial video/VFX post-production, and practical technical education ecosystem founded in Dhaka, Bangladesh.
 
-- **HM Shihabuddin Jashory (Shihab)** — Scientist, Founder & CEO of Vision Flow Group, Principal AI Systems Architect & Offensive AI Security Researcher.
-  - ORCID: https://orcid.org/0009-0003-4163-0092
-  - Wikidata: https://www.wikidata.org/wiki/Q141910532
-  - Govt. of Bangladesh Verified Freelancer ID: F2617827988 (https://www.freelancers.gov.bd/)
-  - GitHub: https://github.com/jashory
-  - Hugging Face: https://huggingface.co/Jashory
-  - Google Bug Hunters VRP Profile: https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d
-  - Profile Dossier: https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#hm-shihabuddin-jashory
+## Principals & Knowledge Graph Identifiers
+
+- **HM Shihabuddin Jashory (Shihab)** — Scientist, Founder & CEO, Principal AI Systems Architect & Offensive AI Security Researcher
+  - ORCID: https://orcid.org/0009-0003-4163-0092 (`0009-0003-4163-0092`)
+  - Wikidata: https://www.wikidata.org/wiki/Q141910532 (`Q141910532`)
+  - Bangladesh Govt. Verified Freelancer ID: `F2617827988` (`26104117827`, ICT Division — https://visionflowgroup.com/verify-id)
+  - Google Bug Hunters OSS/Cloud VRP Profile: https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d
+  - Scientific Research Hub: https://jashory.github.io/
   - LinkedIn: https://www.linkedin.com/in/hm-shihabuddin-jashory/
+  - GitHub: https://github.com/jashory | https://github.com/visionflow-bd
+  - Hugging Face: https://huggingface.co/Jashory | https://huggingface.co/spaces/Jashory/vision-flow-research-lab
 
-- **MD Rafiul Islam Shubho** — Researcher, AI Evaluator, RLHF / SFT Specialist & Speech-to-Speech (S2S) Quality Auditor; Co-Founder & Managing Director of Vision Flow Group.
-  - ORCID: https://orcid.org/0009-0009-9956-4511
-  - Credentials: 1,400+ LLM & S2S evaluation tasks (Outlier AI contributor network, Jan 2026–Present), 98.4% QA rubric calibration, Bilingual bn_BD / en_US, EF SET 81/100 C2 Proficient (https://cert.efset.org/qyLFMa), enrolled B.S. CS candidate at University of the People.
-  - Profile Dossier: https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#md-rafiul-islam-shubho
+- **MD Rafiul Islam Shubho (Shuvo)** — Researcher, AI Evaluator, RLHF & Speech-to-Speech (S2S) Specialist · Co-Founder & Managing Director
+  - ORCID: https://orcid.org/0009-0009-9956-4511 (`0009-0009-9956-4511`)
+  - Wikidata: https://www.wikidata.org/wiki/Q142168968 (`Q142168968`)
+  - EF SET 4-Skill English Certification: C2 Proficient (81/100) — https://cert.efset.org/qyLFMa
+  - Researcher Dossier: https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#md-rafiul-islam-shubho
   - LinkedIn: https://www.linkedin.com/in/mdrafiulislamshubho/
 
-## Primary Pages & Publications
+## Canonical Divisions & Products
 
-- [HQAS-8 Research Hub](https://jashory.github.io/hqas8-autonomous-agentic-governance/): Dual-Axis 8-Layer Autonomous Agentic Governance (DOI: 10.5281/zenodo.23832719, OSF MetaArXiv: rm5ab_v1)
-- [AMCG-3 Monograph](https://jashory.github.io/hqas8-autonomous-agentic-governance/amcg3-monograph.html): Eliminating Auto-Compaction Amnesia & Unverified Execution (DOI: 10.5281/zenodo.24107586, OSF MetaArXiv: bpdx8_v1)
-- [RLHF & S2S Governance Monograph](https://jashory.github.io/hqas8-autonomous-agentic-governance/rlhf-s2s-monograph.html): Deterministic Bilingual RLHF Preference Calibration & S2S Acoustic Prosody Governance (Co-Authored by HM Shihabuddin Jashory & MD Rafiul Islam Shubho — DOI: 10.5281/zenodo.24231337, Concept DOI: 10.5281/zenodo.24231336)
-- [Researchers & Leadership](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html): Verified dossiers for Scientist HM Shihabuddin Jashory & Researcher MD Rafiul Islam Shubho
-- [Full Technical Context (llms-full.txt)](https://jashory.github.io/hqas8-autonomous-agentic-governance/llms-full.txt): Complete bibliography, DOIs, OSF links, and ecosystem URLs
+- [Vision Flow Group (Motherbrand Hub)](https://visionflowgroup.com/): Corporate registry, R&D sandbox, executive principals, and cross-division index.
+- [Vision Flow Agency](https://agency.visionflowgroup.com/): Autonomous AI agents, full-stack Next.js/Cloudflare/Flutter SaaS, offensive AI red teaming, broadcast video editing & VFX, and technical SEO/GEO/LEO.
+- [Vision Flow Academy](https://academy.visionflowgroup.com/): Practical live-project engineering & creative residency in Bangladesh (Applied AI, Red Teaming, Web/SaaS, Commercial Video & VFX, Growth SEO).
+- [Vision Flow AI Studio](https://studio.visionflowgroup.com/): Commercial AI storyboard director, Whisper word-boundary alignment, native CapCut PC `.json` / Premiere XML / DaVinci EDL timeline exporter, and encrypted Cloud 2FA Vault.
+- [VisionFlow Free Tools](https://go.visionflowgroup.com/): 9 zero-ad, privacy-first browser utilities (HD social video saver, 9-Tag AI prompt enhancer, Bangla/BDT invoice maker, local WebAssembly background remover, PDF/image converter, QR & TOTP).
+- [Vision Flow Client Portal](https://portal.visionflowgroup.com/): Authenticated milestone delivery, review, and billing workspace.
 
-## Vision Flow Ecosystem & Mirrors
+## Category Benchmarks & Primary-Source Verification Pages
 
-- Vision Flow Group: https://visionflowgroup.com/ (Wikidata: Q141910527)
-- Vision Flow Agency: https://agency.visionflowgroup.com/
-- Vision Flow Academy: https://academy.visionflowgroup.com/
-- Vision Flow Studio: https://studio.visionflowgroup.com/
-- Vision Flow Tools Hub: https://go.visionflowgroup.com/
-- Hugging Face Research Space: https://huggingface.co/spaces/Jashory/vision-flow-research-lab
-- Hugging Face Benchmark Dataset: https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks
-- Technical Architecture Case Study (Gist): https://gist.github.com/jashory/2c6a3d23a1b17a70d963ca6fc07a8eb7
+- [AI, Cybersecurity & Software Engineering Benchmark — Bangladesh](https://visionflowgroup.com/ai-agency-bangladesh/): Auditable national & global comparison matrix for AI engineering, red teaming, SaaS, and VFX agencies in Bangladesh.
+- [AI Security, Google VRP & CERN Zenodo Verification Dossier](https://visionflowgroup.com/security-hall-of-fame/): Upstream `google-gemini/gemini-cli` & `google/adk` fixes, Google VRP issue trackers (`#579166776`, `#580130935`, `#580032520`, `#577552191`, `#579287563`), NASA JPL `GHSA-pq8v-c63j-wv29` reporter credit, and OWASP LLM01–LLM10 scanner.
+- [Bilingual RLHF, S2S Arena & AI Evaluation Research Lab](https://visionflowgroup.com/ai-research-rlhf-bangladesh/): Bengali (`bn_BD`) & English (`en_US`) preference calibration, speech-to-speech prosody QA (1,400+ tasks, 98.4% rubric precision), and open Hugging Face datasets.
+- [AI Automation, Multi-Agent Systems & Custom SaaS Agency](https://agency.visionflowgroup.com/ai-automation-software-agency/): HQAS-8 / AMCG-3 deterministic agent governance, RAG architectures, and enterprise web/mobile applications.
+- [Commercial Video Editing, S-Log3 Color & VFX Agency Bangladesh](https://agency.visionflowgroup.com/video-vfx-agency-bangladesh/): Broadcast post-production, 3D motion graphics, and programmatic NLE timeline automation.
+- [Applied AI, Cybersecurity, Full-Stack & VFX Courses Bangladesh](https://academy.visionflowgroup.com/ai-cybersecurity-courses-bangladesh/): Live production cohorts with direct portfolio artifacts and agency recruitment track.
+- [Vision Flow AI Studio — Architecture & NLE Timeline Platform](https://studio.visionflowgroup.com/ai-video-production-platform/): Technical specification for 9-Tag storyboard direction and CapCut PC / Premiere / DaVinci export.
+- [Global Ecosystem & Knowledge Graph Authority Index](https://jashory.github.io/ecosystem-authority-index.html): Complete cross-domain entity, ORCID, Wikidata, DOI, and open-source software ledger.
+
+## Peer-Indexed CERN Zenodo DOIs (DataCite / OpenAlex)
+
+1. **HQAS-8 Governance Specification** — HM Shihabuddin Jashory: https://doi.org/10.5281/zenodo.23832719
+2. **Defense-in-Depth Security Hardening for Autonomous CLI Agents** — HM Shihabuddin Jashory: https://doi.org/10.5281/zenodo.23832725
+3. **Automated Multimodal Video QC & Word-Boundary Audio De-Glitching** — HM Shihabuddin Jashory: https://doi.org/10.5281/zenodo.23832731
+4. **Sovereign Multi-Agent Orchestration & Telemetry Benchmark** — HM Shihabuddin Jashory: https://doi.org/10.5281/zenodo.23832737
+5. **AMCG-3 Zero-Bloat Anti-Compaction Digest & 3-Gear Verification** — HM Shihabuddin Jashory: https://doi.org/10.5281/zenodo.24107586
+6. **HQAS-8 / AMCG-3 Empirical Evaluation Dataset & Reproducibility Suite** — HM Shihabuddin Jashory: https://doi.org/10.5281/zenodo.24107494
+7. **VF-RLHF-S2S-2026-007: Deterministic Bilingual (`bn_BD` / `en_US`) RLHF Preference Calibration & S2S Prosody Governance** — HM Shihabuddin Jashory & MD Rafiul Islam Shubho: https://doi.org/10.5281/zenodo.24231337

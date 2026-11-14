@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-message: "If you use or reference HQAS-8, AMCG-3, or Vision Flow Research Lab benchmarks, please cite using this metadata (Principal Scientist: HM Shihabuddin Jashory; Research Lab Co-Lead for AI Evaluation & RLHF: MD Rafiul Islam Shubho)."
-title: "Dual-Axis 8-Layer Autonomous Agentic Governance (HQAS-8) and AMCG-3 Benchmark Archive"
-version: 2.1.0
+message: "If you use or reference HQAS-8, AMCG-3, or Vision Flow Research Lab benchmarks, please cite using this metadata (Principal Scientist: HM Shihabuddin Jashory, Wikidata Q141910532; Co-Lead Researcher for AI Evaluation & RLHF: MD Rafiul Islam Shubho, Wikidata Q142168968)."
+title: "Dual-Axis 8-Layer Autonomous Agentic Governance (HQAS-8), AMCG-3 Anti-Compaction & Bilingual RLHF/S2S Benchmark Archive"
+version: 2.2.0
 date-released: 2026-11-15
 doi: "10.5281/zenodo.23832719"
 url: "https://jashory.github.io/hqas8-autonomous-agentic-governance/"
@@ -11,18 +11,30 @@ authors:
   - family-names: "Jashory"
     given-names: "HM Shihabuddin"
     orcid: "https://orcid.org/0009-0003-4163-0092"
+    website: "https://www.wikidata.org/wiki/Q141910532"
     affiliation: "Vision Flow Research Lab (Vision Flow Group, Q141910527) & Department of Computer Science, University of the People"
   - family-names: "Shubho"
     given-names: "MD Rafiul Islam"
     orcid: "https://orcid.org/0009-0009-9956-4511"
+    website: "https://www.wikidata.org/wiki/Q142168968"
     affiliation: "Vision Flow Research Lab (Vision Flow Group, Q141910527) & Department of Computer Science, University of the People"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23832719"
+    description: "HQAS-8 Dual-Axis 8-Layer Governance Specification"
+  - type: doi
+    value: "10.5281/zenodo.24107586"
+    description: "AMCG-3 Zero-Bloat Anti-Compaction Digest & 3-Gear Multimodal Verification"
+  - type: doi
+    value: "10.5281/zenodo.24231337"
+    description: "VF-RLHF-S2S-2026-007 Deterministic Bilingual (bn_BD / en_US) RLHF Preference Calibration & S2S Prosody Governance"
 keywords:
   - "Scientist"
+  - "Researcher"
   - "Autonomous AI Agents"
   - "Multi-Agent Systems"
   - "AI Governance"
   - "RLHF"
-  - "AI Evaluation"
-  - "Hallucination Elimination"
-  - "LLM Governance"
+  - "Speech-to-Speech Evaluation"
+  - "AI Red Teaming"
   - "Vision Flow Group"
