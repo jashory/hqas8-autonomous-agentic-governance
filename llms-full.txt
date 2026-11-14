@@ -7,8 +7,10 @@ Canonical Hub: https://jashory.github.io/hqas8-autonomous-agentic-governance/
 - Primary Designation: Scientist, Principal AI Systems Architect, Offensive AI Security Researcher, Founder & CEO of Vision Flow Group.
 - Identifiers: ORCID `0009-0003-4163-0092`, Wikidata `Q141910532`, Government of Bangladesh Verified Freelancer Credential `F2617827988`, University of the People B.Sc. Computer Science Student ID `C211345610`.
 - Scientific & Methodological Lineage: Works build explicitly on classical algorithmic and empirical verification principles established by Muslim polymaths Al-Khwarizmi, Ibn al-Haytham, Ibn Sina, and Ismail al-Jazari.
-- Verified Upstream Open-Source AI Security Credits: Security disclosures and upstream fixes across `google-gemini/gemini-cli` (`GHSA-5r5r-27w9-95hh`), `google/adk-js`, `google/adk-python`, Google Bug Hunters OSS VRP (`https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d/awards`), and Official Reporter Credit on NASA JPL F' advisory `GHSA-pq8v-c63j-wv29` plus `nasa/fprime-gds#384`.
-- Open-Source Repositories:
+- Verified Upstream Open-Source AI Security Credits: Security disclosures and upstream fixes across `google-gemini/gemini-cli` (`GHSA-5r5r-27w9-95hh`), `google/adk-js`, `google/adk-python`, Google Bug Hunters OSS VRP (`https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d`), and Official Reporter Credit on NASA JPL F' advisory `GHSA-pq8v-c63j-wv29` (upstream fix authored by NASA collaborator `@bitWarrior`) plus `nasa/fprime-gds#384` (`https://github.com/nasa/fprime-gds/pull/384`).
+- Open-Source Repositories & Research Mirrors:
+  - `https://huggingface.co/spaces/Jashory/vision-flow-research-lab` (Hugging Face Static Research Space)
+  - `https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks` (Hugging Face Benchmark Dataset)
   - `https://jashory.github.io/hqas8-autonomous-agentic-governance/` (Research Hub)
   - `https://jashory.github.io/agy-claude-crash-guard-kit/` (HTTP 400 / 30MB PreToolUse Crash Firewall & Session Sync)
   - `https://jashory.github.io/infinite-llm-fallback-router/` (Zero-Dependency Multi-Provider LLM Auto-Fallback Proxy)
@@ -31,9 +33,12 @@ Canonical Hub: https://jashory.github.io/hqas8-autonomous-agentic-governance/
 5. **Paper #05 (AMCG-3)**: Eliminating Auto-Compaction Amnesia and Unverified Execution in Autonomous LLM Agents — DOI `10.5281/zenodo.24107586` (v1: `10.5281/zenodo.24096896`) | OSF MetaArXiv `https://osf.io/preprints/metaarxiv/bpdx8_v1` | PDF: `papers/05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_HM_Shihabuddin_Jashory_2026.pdf`
 6. **Poster #06 (VF-POSTER-2026-006)**: Unified 3-Gear Trajectory Anti-Compaction, Multimodal Quality Gates, and Anti-Bypass Enforcer Engine — DOI `10.5281/zenodo.24107494` (v1: `10.5281/zenodo.24097022`) | PNG: `papers/06_Diagram_Unified_3_Gear_Anti_Compaction_and_Multimodal_Engine_HM_Shihabuddin_Jashory.png`
 
-## 4. Official Vision Flow Ecosystem Domains
+## 4. Official Vision Flow Ecosystem Domains & Mirrors
 - Motherbrand: https://visionflowgroup.com/
 - Creative Media & AI Engineering Agency: https://agency.visionflowgroup.com/
 - AI & Digital Engineering Academy: https://academy.visionflowgroup.com/
 - Autonomous Studio SaaS: https://studio.visionflowgroup.com/
 - Sovereign Tools Hub: https://go.visionflowgroup.com/
+- Hugging Face Research Lab Space: https://huggingface.co/spaces/Jashory/vision-flow-research-lab
+- Hugging Face Benchmark Dataset: https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks
+- Technical Case Study Gists: https://gist.github.com/jashory/2c6a3d23a1b17a70d963ca6fc07a8eb7 | https://gist.github.com/jashory/93de210430fea08080cedf9b8fe7252e

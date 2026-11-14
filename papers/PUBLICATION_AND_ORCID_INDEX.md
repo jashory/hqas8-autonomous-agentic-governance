@@ -32,5 +32,12 @@
    - **Published GitHub Security Advisories (`google-gemini/gemini-cli`)**: `GHSA-5r5r-27w9-95hh` (Cross-Scope Cleartext `${ENV_VAR}` Secret Leak, Google Issue Tracker `#577552191`), `GHSA-xwwv-4qpv-w4x4` (Command Injection & Policy Bypass Hardening, merged upstream PRs `#22487` & `#22501`), and `GHSA-fr5f-8j3j-qx2r`.
    - **Active Google VRP Reports**: `#579166776` (`P1`), `#580130935` (`P2`), `#580032520` (`P2`), `#579287563` (`P2`), plus upstream multi-agent hardening in `google/adk-js#765` and `google/adk-python#4992`.
 2. **NASA Jet Propulsion Laboratory (`nasa/fprime` & `nasa/fprime-gds`)**:
-   - **Official NASA Security Advisory Reporter Credit**: [**`GHSA-pq8v-c63j-wv29`**](https://github.com/nasa/fprime/security/advisories/GHSA-pq8v-c63j-wv29) (Reported by `@jashory` / **HM Shihabuddin Jashory**; upstream remediation committed by NASA collaborator `bitWarrior`).
+   - **Official NASA Security Advisory Reporter Credit**: `GHSA-pq8v-c63j-wv29` (Reported by `@jashory` / **HM Shihabuddin Jashory**; upstream remediation committed independently by NASA collaborator `bitWarrior`).
    - **Authored NASA Ground Data System PR**: [**`nasa/fprime-gds#384`**](https://github.com/nasa/fprime-gds/pull/384) by `@jashory`.
+
+---
+
+## 🤗 3. Open Research Mirrors & Benchmark Datasets (Hugging Face & GitHub)
+
+- **Hugging Face Research Space**: [huggingface.co/spaces/Jashory/vision-flow-research-lab](https://huggingface.co/spaces/Jashory/vision-flow-research-lab)
+- **Hugging Face Benchmark Dataset**: [huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks) (co-authored by **Scientist HM Shihabuddin Jashory** & **Researcher / AI Evaluator MD Rafiul Islam Shubho**)

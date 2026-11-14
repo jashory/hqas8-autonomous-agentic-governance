@@ -7,8 +7,10 @@
 - **HM Shihabuddin Jashory (Shihab)** — Scientist, Founder & CEO of Vision Flow Group, Principal AI Systems Architect & Offensive AI Security Researcher.
   - ORCID: https://orcid.org/0009-0003-4163-0092
   - Wikidata: https://www.wikidata.org/wiki/Q141910532
-  - Govt. of Bangladesh Verified Freelancer ID: https://freelancers.gov.bd/verified-freelancer/F2617827988 (F2617827988)
+  - Govt. of Bangladesh Verified Freelancer ID: F2617827988 (https://www.freelancers.gov.bd/)
   - GitHub: https://github.com/jashory
+  - Hugging Face: https://huggingface.co/Jashory
+  - Google Bug Hunters VRP Profile: https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d
   - Profile Dossier: https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#hm-shihabuddin-jashory
 
 - **MD Rafiul Islam Shubho** — Researcher, AI Evaluator, RLHF / SFT Specialist & Speech-to-Speech (S2S) Quality Auditor; Co-Founder & Managing Director of Vision Flow Group.
@@ -22,10 +24,13 @@
 - [Researchers & Leadership](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html): Verified dossiers for Scientist HM Shihabuddin Jashory & Researcher MD Rafiul Islam Shubho
 - [Full Technical Context (llms-full.txt)](https://jashory.github.io/hqas8-autonomous-agentic-governance/llms-full.txt): Complete bibliography, DOIs, OSF links, and ecosystem URLs
 
-## Vision Flow Ecosystem
+## Vision Flow Ecosystem & Mirrors
 
 - Vision Flow Group: https://visionflowgroup.com/ (Wikidata: Q141910527)
 - Vision Flow Agency: https://agency.visionflowgroup.com/
 - Vision Flow Academy: https://academy.visionflowgroup.com/
 - Vision Flow Studio: https://studio.visionflowgroup.com/
 - Vision Flow Tools Hub: https://go.visionflowgroup.com/
+- Hugging Face Research Space: https://huggingface.co/spaces/Jashory/vision-flow-research-lab
+- Hugging Face Benchmark Dataset: https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks
+- Technical Architecture Case Study (Gist): https://gist.github.com/jashory/2c6a3d23a1b17a70d963ca6fc07a8eb7

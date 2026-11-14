@@ -7,7 +7,7 @@
 **Author & Principal Investigator:** **HM Shihabuddin Jashory (Shihab)**  
 **Affiliation:** Vision Flow Group Research Lab (`https://visionflowgroup.com`) & Department of Computer Science, University of the People (`Student ID: C211345610`)  
 **Research Leadership:** **HM Shihabuddin Jashory** (Principal Scientist, AI Systems Architect & Security Researcher · ORCID `0009-0003-4163-0092` · Wikidata `Q141910532`) & **MD Rafiul Islam Shubho** (Researcher, AI Evaluator & RLHF / S2S Quality Auditor · Co-Founder & Managing Director, Vision Flow Group `Q141910527`)  
-**Research Profiles & Knowledge Hubs:** [Researcher & Scientist Dossiers](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html) · [Vision Flow Group](https://visionflowgroup.com) · [Agency](https://agency.visionflowgroup.com) · [Academy](https://academy.visionflowgroup.com) · [Studio](https://studio.visionflowgroup.com) · [Tools Hub](https://go.visionflowgroup.com)  
+**Research Profiles & Knowledge Hubs:** [Researcher & Scientist Dossiers](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html) · [Hugging Face Space](https://huggingface.co/spaces/Jashory/vision-flow-research-lab) · [Benchmark Dataset](https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks) · [Vision Flow Group](https://visionflowgroup.com) · [Agency](https://agency.visionflowgroup.com) · [Academy](https://academy.visionflowgroup.com) · [Studio](https://studio.visionflowgroup.com) · [Tools Hub](https://go.visionflowgroup.com) · [Google Bug Hunters](https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d)  
 **ORCID iD:** [https://orcid.org/0009-0003-4163-0092](https://orcid.org/0009-0003-4163-0092)
 
 ---
