@@ -24,6 +24,7 @@
 
 - [HQAS-8 Research Hub](https://jashory.github.io/hqas8-autonomous-agentic-governance/): Dual-Axis 8-Layer Autonomous Agentic Governance (DOI: 10.5281/zenodo.23832719, OSF MetaArXiv: rm5ab_v1)
 - [AMCG-3 Monograph](https://jashory.github.io/hqas8-autonomous-agentic-governance/amcg3-monograph.html): Eliminating Auto-Compaction Amnesia & Unverified Execution (DOI: 10.5281/zenodo.24107586, OSF MetaArXiv: bpdx8_v1)
+- [RLHF & S2S Governance Monograph](https://jashory.github.io/hqas8-autonomous-agentic-governance/rlhf-s2s-monograph.html): Deterministic Bilingual RLHF Preference Calibration & S2S Acoustic Prosody Governance (Co-Authored by HM Shihabuddin Jashory & MD Rafiul Islam Shubho — DOI: 10.5281/zenodo.24231337, Concept DOI: 10.5281/zenodo.24231336)
 - [Researchers & Leadership](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html): Verified dossiers for Scientist HM Shihabuddin Jashory & Researcher MD Rafiul Islam Shubho
 - [Full Technical Context (llms-full.txt)](https://jashory.github.io/hqas8-autonomous-agentic-governance/llms-full.txt): Complete bibliography, DOIs, OSF links, and ecosystem URLs
 

@@ -8,7 +8,7 @@
 
 ---
 
-## 📚 1. Peer-Archivable Scientific Monographs & Posters (6 Official CERN Zenodo DOIs)
+## 📚 1. Peer-Archivable Scientific Monographs & Posters (7 Official CERN Zenodo DOIs)
 
 | # | Type | Title | Official CERN Zenodo DOI | Vault Filename |
 | :--- | :--- | :--- | :--- | :--- |
@@ -18,6 +18,7 @@
 | **04** | **Conference Poster (PDF)** | *Architectural Poster: Dual-Axis 8-Layer Autonomous Agentic Verification & Governance Architecture (`HQAS-8`)* | [**`10.5281/zenodo.23832737`**](https://doi.org/10.5281/zenodo.23832737) | `04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.pdf` |
 | **05** | **Research Monograph (PDF)** | *Zero-Bloat Post-Compaction Trajectory Digest and Three-Gear Multimodal Verification Architecture for Long-Horizon Autonomous AI Agents (`AMCG-3`)* | [**`10.5281/zenodo.24096896`**](https://doi.org/10.5281/zenodo.24096896) | `05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_HM_Shihabuddin_Jashory_2026.pdf` |
 | **06** | **Conference Poster (PDF)** | *AMCG-3 Executive Systems Architecture Poster: Eliminating Lost-in-the-Middle Context Amnesia, Shortcut Hallucinations, and Unverified Multimodal Outputs* | [**`10.5281/zenodo.24097022`**](https://doi.org/10.5281/zenodo.24097022) | `06_Diagram_Unified_3_Gear_Anti_Compaction_and_Multimodal_Engine_HM_Shihabuddin_Jashory.pdf` |
+| **07** | **Co-Authored Research Monograph (PDF)** | *Deterministic Bilingual RLHF Preference Calibration and Speech-to-Speech (S2S) Acoustic Prosody Governance (`VF-RLHF-S2S-2026-007` — with MD Rafiul Islam Shubho `0009-0009-9956-4511`)* | [**`10.5281/zenodo.24231337`**](https://doi.org/10.5281/zenodo.24231337) | `07_Paper_Deterministic_Bilingual_RLHF_Preference_Calibration_and_S2S_Prosody_Governance_Jashory_Shubho_2026.pdf` |
 
 ### Official OSF Preprints (MetaArXiv) Live Preprint Records (5-Page Two-Column IEEE Format)
 - **Paper #01 (`HQAS-8` — Deterministic 8-Layer Governance Architecture)**: [https://osf.io/preprints/metaarxiv/rm5ab_v1](https://osf.io/preprints/metaarxiv/rm5ab_v1) (`rm5ab_v1` · DOI: `10.5281/zenodo.23832719`)

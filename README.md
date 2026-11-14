@@ -20,6 +20,7 @@
 4. **[Architecture Poster 1 (HQAS-8 High-Resolution Diagram PDF & PNG)](./papers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.png)**
 5. **[Paper 5 (VF-AI-MEM-2026-005 — DOI: `10.5281/zenodo.24107586` | OSF MetaArXiv: `bpdx8_v1`): Eliminating Auto-Compaction Amnesia and Unverified Execution in Autonomous LLM Agents: UTF-8 Byte-Bounded Trajectory Digest Synthesis, Anti-Bypass Hook Locks, and 3-Gear Multimodal Quality Gates (AMCG-3) (PDF)](./papers/05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_HM_Shihabuddin_Jashory_2026.pdf)**
 6. **[Architecture Poster 2 (VF-POSTER-2026-006 — DOI: `10.5281/zenodo.24107494`): AMCG-3 Unified Anti-Compaction & 3-Gear Multimodal Engine (PDF & PNG)](./papers/06_Diagram_Unified_3_Gear_Anti_Compaction_and_Multimodal_Engine_HM_Shihabuddin_Jashory.png)**
+7. **[Paper 7 (VF-RLHF-S2S-2026-007 — DOI: `10.5281/zenodo.24231337`): Deterministic Bilingual RLHF Preference Calibration and Speech-to-Speech (S2S) Acoustic Prosody Governance *(Co-authored by HM Shihabuddin Jashory & MD Rafiul Islam Shubho)* (PDF)](./papers/07_Paper_Deterministic_Bilingual_RLHF_Preference_Calibration_and_S2S_Prosody_Governance_Jashory_Shubho_2026.pdf)** · [Highwire Citation Page](https://jashory.github.io/hqas8-autonomous-agentic-governance/rlhf-s2s-monograph.html)
 
 ![HQAS-8 Architecture Poster](./papers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.png)
 

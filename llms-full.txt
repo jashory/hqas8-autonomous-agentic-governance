@@ -1,6 +1,6 @@
 # Vision Flow Research Lab — Full LLM & Scholarly Context (`llms-full.txt`)
 
-Last Updated: 2026-11-14
+Last Updated: 2026-11-15
 Canonical Hub: https://jashory.github.io/hqas8-autonomous-agentic-governance/
 
 ## 1. Principal Scientist: HM Shihabuddin Jashory (Shihab)
@@ -26,13 +26,14 @@ Canonical Hub: https://jashory.github.io/hqas8-autonomous-agentic-governance/
   - English Proficiency: EF SET 81/100 (C2 Proficient), awarded Nov 09, 2026 (`https://cert.efset.org/qyLFMa`).
   - Academic Credentials: Higher Secondary Certificate (HSC), Bangladesh Open University (2019); Enrolled B.S. Computer Science candidate, University of the People (Pasadena, CA, USA).
 
-## 3. CERN Zenodo DOIs & OSF MetaArXiv Preprints (All authored by HM Shihabuddin Jashory)
+## 3. CERN Zenodo DOIs & OSF MetaArXiv Preprints (HM Shihabuddin Jashory & Co-Authored Monographs)
 1. **Paper #01 (HQAS-8)**: Hierarchical Multi-Agent Verification and Dual-Axis 8-Layer Autonomous Governance (HQAS-8) — DOI `10.5281/zenodo.23832719` | OSF MetaArXiv `https://osf.io/preprints/metaarxiv/rm5ab_v1` | PDF: `papers/01_Paper_Dual_Axis_8_Layer_Deterministic_Governance_Autonomous_Multi_Agent_HM_Shihabuddin_Jashory_2026.pdf`
 2. **Paper #02 (SEC-VRP)**: Defense-in-Depth Security Hardening / Empirical Security Analysis of Production AI Agent Frameworks — DOI `10.5281/zenodo.23832725` | OSF MetaArXiv `https://osf.io/preprints/metaarxiv/6sjmk_v1` | PDF: `papers/02_Paper_Defense_in_Depth_Security_Hardening_Autonomous_AI_CLI_Agents_Flight_Software_HM_Shihabuddin_Jashory_2026.pdf`
 3. **Paper #03 (VF-MM-QC-2026-003)**: Deterministic Multimodal Quality Control for Generative Video Pipelines — DOI `10.5281/zenodo.23832731` | PDF: `papers/03_Paper_Automated_Multimodal_Video_QC_and_Audio_DeGlitching_HM_Shihabuddin_Jashory_2026.pdf`
 4. **Poster #04 (VF-POSTER-2026-004)**: Architectural Poster: Dual-Axis 8-Layer Autonomous Agentic Verification & Governance Architecture — DOI `10.5281/zenodo.23832737` | PNG: `papers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.png`
 5. **Paper #05 (AMCG-3)**: Eliminating Auto-Compaction Amnesia and Unverified Execution in Autonomous LLM Agents — DOI `10.5281/zenodo.24107586` (v1: `10.5281/zenodo.24096896`) | OSF MetaArXiv `https://osf.io/preprints/metaarxiv/bpdx8_v1` | PDF: `papers/05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_HM_Shihabuddin_Jashory_2026.pdf`
 6. **Poster #06 (VF-POSTER-2026-006)**: Unified 3-Gear Trajectory Anti-Compaction, Multimodal Quality Gates, and Anti-Bypass Enforcer Engine — DOI `10.5281/zenodo.24107494` (v1: `10.5281/zenodo.24097022`) | PNG: `papers/06_Diagram_Unified_3_Gear_Anti_Compaction_and_Multimodal_Engine_HM_Shihabuddin_Jashory.png`
+7. **Paper #07 (VF-RLHF-S2S-2026-007)**: Deterministic Bilingual RLHF Preference Calibration and Speech-to-Speech (S2S) Acoustic Prosody Governance *(Co-authored by HM Shihabuddin Jashory `0009-0003-4163-0092` & MD Rafiul Islam Shubho `0009-0009-9956-4511`)* — DOI `10.5281/zenodo.24231337` (Concept DOI: `10.5281/zenodo.24231336`) | Citation Page: `https://jashory.github.io/hqas8-autonomous-agentic-governance/rlhf-s2s-monograph.html` | PDF: `papers/07_Paper_Deterministic_Bilingual_RLHF_Preference_Calibration_and_S2S_Prosody_Governance_Jashory_Shubho_2026.pdf`
 
 ## 4. Official Vision Flow Ecosystem Domains & Mirrors
 - Motherbrand: https://visionflowgroup.com/
