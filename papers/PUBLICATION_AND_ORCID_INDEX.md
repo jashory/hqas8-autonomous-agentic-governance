@@ -20,14 +20,9 @@
 | **06** | **Conference Poster (PDF)** | *AMCG-3 Executive Systems Architecture Poster: Eliminating Lost-in-the-Middle Context Amnesia, Shortcut Hallucinations, and Unverified Multimodal Outputs* | [**`10.5281/zenodo.24097022`**](https://doi.org/10.5281/zenodo.24097022) | `06_Diagram_Unified_3_Gear_Anti_Compaction_and_Multimodal_Engine_HM_Shihabuddin_Jashory.pdf` |
 
 ### Official OSF Preprints (MetaArXiv) Live Preprint Records (5-Page Two-Column IEEE Format)
-- **Paper #01 (`HQAS-8`)**: [https://osf.io/preprints/metaarxiv/vq8se_v1](https://osf.io/preprints/metaarxiv/vq8se_v1) (`https://osf.io/vq8se`)
-- **Paper #02 (`AI Agent & Flight-Software Security`)**: [https://osf.io/preprints/metaarxiv/8ck3b_v1](https://osf.io/preprints/metaarxiv/8ck3b_v1) (`https://osf.io/8ck3b`)
-- **Paper #05 (`AMCG-3 Trajectory Digest & 3-Gear Multimodal Gate`)**: [https://osf.io/preprints/metaarxiv/54ndv_v1](https://osf.io/preprints/metaarxiv/54ndv_v1) (`https://osf.io/54ndv`)
-
-### Official OSF Preprints (MetaArXiv) Live Preprint Records (5-Page Two-Column IEEE Format)
-- **Paper #01 (`HQAS-8`)**: [https://osf.io/preprints/metaarxiv/vq8se_v1](https://osf.io/preprints/metaarxiv/vq8se_v1) (`https://osf.io/vq8se`)
-- **Paper #02 (`AI Agent & Flight-Software Security`)**: [https://osf.io/preprints/metaarxiv/8ck3b_v1](https://osf.io/preprints/metaarxiv/8ck3b_v1) (`https://osf.io/8ck3b`)
-- **Paper #05 (`AMCG-3 Trajectory Digest & 3-Gear Multimodal Gate`)**: [https://osf.io/preprints/metaarxiv/54ndv_v1](https://osf.io/preprints/metaarxiv/54ndv_v1) (`https://osf.io/54ndv`)
+- **Paper #01 (`HQAS-8` — Deterministic 8-Layer Governance Architecture)**: [https://osf.io/preprints/metaarxiv/rm5ab_v1](https://osf.io/preprints/metaarxiv/rm5ab_v1) (`rm5ab_v1` · DOI: `10.5281/zenodo.23832719`)
+- **Paper #02 (`SEC-VRP` — AI Agent & Flight-Software Security)**: [https://osf.io/preprints/metaarxiv/6sjmk_v1](https://osf.io/preprints/metaarxiv/6sjmk_v1) (`6sjmk_v1` · DOI: `10.5281/zenodo.23832725`)
+- **Paper #05 (`AMCG-3` — Trajectory Digest & 3-Gear Multimodal Gate)**: [https://osf.io/preprints/metaarxiv/bpdx8_v1](https://osf.io/preprints/metaarxiv/bpdx8_v1) (`bpdx8_v1` · DOI: `10.5281/zenodo.24107586`)
 
 ---
 

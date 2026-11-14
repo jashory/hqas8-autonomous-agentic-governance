@@ -5,7 +5,9 @@
 [![Manuscript ID](https://img.shields.io/badge/Manuscript-VF--AI--ARCH--2026--001-blue)](./papers/01_Paper_Dual_Axis_8_Layer_Autonomous_Agentic_Governance_Architecture_HM_Shihabuddin_Jashory_2026.pdf)
 
 **Author & Principal Investigator:** **HM Shihabuddin Jashory (Shihab)**  
-**Affiliation:** Vision Flow Research Lab (`https://visionflowgroup.work`) & Department of Computer Science, University of the People (`ID: C211345610`)  
+**Affiliation:** Vision Flow Group Research Lab (`https://visionflowgroup.com`) & Department of Computer Science, University of the People (`Student ID: C211345610`)  
+**Research Leadership:** **HM Shihabuddin Jashory** (Principal Scientist, AI Systems Architect & Security Researcher · ORCID `0009-0003-4163-0092` · Wikidata `Q141910532`) & **MD Rafiul Islam Shubho** (Researcher, AI Evaluator & RLHF / S2S Quality Auditor · Co-Founder & Managing Director, Vision Flow Group `Q141910527`)  
+**Research Profiles & Knowledge Hubs:** [Researcher & Scientist Dossiers](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html) · [Vision Flow Group](https://visionflowgroup.com) · [Agency](https://agency.visionflowgroup.com) · [Academy](https://academy.visionflowgroup.com) · [Studio](https://studio.visionflowgroup.com) · [Tools Hub](https://go.visionflowgroup.com)  
 **ORCID iD:** [https://orcid.org/0009-0003-4163-0092](https://orcid.org/0009-0003-4163-0092)
 
 ---

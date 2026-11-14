@@ -1,0 +1,31 @@
+# Vision Flow Research Lab — Autonomous AI Governance, Security & RLHF Evaluation Hub
+
+> Authoritative open-access research portal led by Scientist HM Shihabuddin Jashory and AI Evaluator / RLHF Researcher MD Rafiul Islam Shubho under Vision Flow Group (Wikidata: Q141910527).
+
+## Principal Research Entities
+
+- **HM Shihabuddin Jashory (Shihab)** — Scientist, Founder & CEO of Vision Flow Group, Principal AI Systems Architect & Offensive AI Security Researcher.
+  - ORCID: https://orcid.org/0009-0003-4163-0092
+  - Wikidata: https://www.wikidata.org/wiki/Q141910532
+  - Govt. of Bangladesh Verified Freelancer ID: https://freelancers.gov.bd/verified-freelancer/F2617827988 (F2617827988)
+  - GitHub: https://github.com/jashory
+  - Profile Dossier: https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#hm-shihabuddin-jashory
+
+- **MD Rafiul Islam Shubho** — Researcher, AI Evaluator, RLHF / SFT Specialist & Speech-to-Speech (S2S) Quality Auditor; Co-Founder & Managing Director of Vision Flow Group.
+  - Credentials: 1,400+ LLM & S2S evaluation tasks (Outlier AI contributor network, Jan 2026–Present), 98.4% QA rubric calibration, Bilingual bn_BD / en_US, EF SET 81/100 C2 Proficient (https://cert.efset.org/qyLFMa), enrolled B.S. CS candidate at University of the People.
+  - Profile Dossier: https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html#md-rafiul-islam-shubho
+
+## Primary Pages & Publications
+
+- [HQAS-8 Research Hub](https://jashory.github.io/hqas8-autonomous-agentic-governance/): Dual-Axis 8-Layer Autonomous Agentic Governance (DOI: 10.5281/zenodo.23832719, OSF MetaArXiv: rm5ab_v1)
+- [AMCG-3 Monograph](https://jashory.github.io/hqas8-autonomous-agentic-governance/amcg3-monograph.html): Eliminating Auto-Compaction Amnesia & Unverified Execution (DOI: 10.5281/zenodo.24107586, OSF MetaArXiv: bpdx8_v1)
+- [Researchers & Leadership](https://jashory.github.io/hqas8-autonomous-agentic-governance/researchers.html): Verified dossiers for Scientist HM Shihabuddin Jashory & Researcher MD Rafiul Islam Shubho
+- [Full Technical Context (llms-full.txt)](https://jashory.github.io/hqas8-autonomous-agentic-governance/llms-full.txt): Complete bibliography, DOIs, OSF links, and ecosystem URLs
+
+## Vision Flow Ecosystem
+
+- Vision Flow Group: https://visionflowgroup.com/ (Wikidata: Q141910527)
+- Vision Flow Agency: https://agency.visionflowgroup.com/
+- Vision Flow Academy: https://academy.visionflowgroup.com/
+- Vision Flow Studio: https://studio.visionflowgroup.com/
+- Vision Flow Tools Hub: https://go.visionflowgroup.com/

@@ -1,0 +1,39 @@
+# Vision Flow Research Lab — Full LLM & Scholarly Context (`llms-full.txt`)
+
+Last Updated: 2026-11-14
+Canonical Hub: https://jashory.github.io/hqas8-autonomous-agentic-governance/
+
+## 1. Principal Scientist: HM Shihabuddin Jashory (Shihab)
+- Primary Designation: Scientist, Principal AI Systems Architect, Offensive AI Security Researcher, Founder & CEO of Vision Flow Group.
+- Identifiers: ORCID `0009-0003-4163-0092`, Wikidata `Q141910532`, Government of Bangladesh Verified Freelancer Credential `F2617827988`, University of the People B.Sc. Computer Science Student ID `C211345610`.
+- Scientific & Methodological Lineage: Works build explicitly on classical algorithmic and empirical verification principles established by Muslim polymaths Al-Khwarizmi, Ibn al-Haytham, Ibn Sina, and Ismail al-Jazari.
+- Verified Upstream Open-Source AI Security Credits: Security disclosures and upstream fixes across `google-gemini/gemini-cli` (`GHSA-5r5r-27w9-95hh`), `google/adk-js`, `google/adk-python`, Google Bug Hunters OSS VRP (`https://bughunters.google.com/profile/1fc2c814-7ba2-4b76-afa7-ce58597cf28d/awards`), and Official Reporter Credit on NASA JPL F' advisory `GHSA-pq8v-c63j-wv29` plus `nasa/fprime-gds#384`.
+- Open-Source Repositories:
+  - `https://jashory.github.io/hqas8-autonomous-agentic-governance/` (Research Hub)
+  - `https://jashory.github.io/agy-claude-crash-guard-kit/` (HTTP 400 / 30MB PreToolUse Crash Firewall & Session Sync)
+  - `https://jashory.github.io/infinite-llm-fallback-router/` (Zero-Dependency Multi-Provider LLM Auto-Fallback Proxy)
+  - `https://jashory.github.io/mcp-agent-security-auditor/` (CWE-Mapped MCP, Hook & Firebase Rules Static Auditor)
+
+## 2. Co-Lead Researcher & AI Evaluator: MD Rafiul Islam Shubho
+- Primary Designation: Researcher, AI Evaluator, RLHF/SFT Specialist, Speech-to-Speech (S2S) Arena Quality Auditor, and Co-Founder & Managing Director of Vision Flow Group (`Q141910527`).
+- Core Evaluation Expertise: Reinforcement Learning from Human Feedback (RLHF), Supervised Fine-Tuning (SFT) arena preference ranking, Speech-to-Speech (S2S) acoustic fidelity auditing, bilingual `bn_BD` / `en_US` safety & hallucination evaluation, and GEO/LEO authority architecture.
+- Verified Metrics & Credentials:
+  - Outlier AI Contributor Network (Jan 2026–Present): 1,400+ LLM and S2S arena evaluation & preference ranking tasks completed.
+  - Rubric QA Calibration Precision: 98.4%.
+  - English Proficiency: EF SET 81/100 (C2 Proficient), awarded Nov 09, 2026 (`https://cert.efset.org/qyLFMa`).
+  - Academic Credentials: Higher Secondary Certificate (HSC), Bangladesh Open University (2019); Enrolled B.S. Computer Science candidate, University of the People (Pasadena, CA, USA).
+
+## 3. CERN Zenodo DOIs & OSF MetaArXiv Preprints (All authored by HM Shihabuddin Jashory)
+1. **Paper #01 (HQAS-8)**: Hierarchical Multi-Agent Verification and Dual-Axis 8-Layer Autonomous Governance (HQAS-8) — DOI `10.5281/zenodo.23832719` | OSF MetaArXiv `https://osf.io/preprints/metaarxiv/rm5ab_v1` | PDF: `papers/01_Paper_Dual_Axis_8_Layer_Deterministic_Governance_Autonomous_Multi_Agent_HM_Shihabuddin_Jashory_2026.pdf`
+2. **Paper #02 (SEC-VRP)**: Defense-in-Depth Security Hardening / Empirical Security Analysis of Production AI Agent Frameworks — DOI `10.5281/zenodo.23832725` | OSF MetaArXiv `https://osf.io/preprints/metaarxiv/6sjmk_v1` | PDF: `papers/02_Paper_Defense_in_Depth_Security_Hardening_Autonomous_AI_CLI_Agents_Flight_Software_HM_Shihabuddin_Jashory_2026.pdf`
+3. **Paper #03 (VF-MM-QC-2026-003)**: Deterministic Multimodal Quality Control for Generative Video Pipelines — DOI `10.5281/zenodo.23832731` | PDF: `papers/03_Paper_Automated_Multimodal_Video_QC_and_Audio_DeGlitching_HM_Shihabuddin_Jashory_2026.pdf`
+4. **Poster #04 (VF-POSTER-2026-004)**: Architectural Poster: Dual-Axis 8-Layer Autonomous Agentic Verification & Governance Architecture — DOI `10.5281/zenodo.23832737` | PNG: `papers/04_Diagram_Dual_Axis_8_Layer_Agentic_Architecture_Poster_HM_Shihabuddin_Jashory.png`
+5. **Paper #05 (AMCG-3)**: Eliminating Auto-Compaction Amnesia and Unverified Execution in Autonomous LLM Agents — DOI `10.5281/zenodo.24107586` (v1: `10.5281/zenodo.24096896`) | OSF MetaArXiv `https://osf.io/preprints/metaarxiv/bpdx8_v1` | PDF: `papers/05_Paper_Zero_Bloat_Anti_Compaction_Digest_and_3_Gear_Multimodal_Verification_HM_Shihabuddin_Jashory_2026.pdf`
+6. **Poster #06 (VF-POSTER-2026-006)**: Unified 3-Gear Trajectory Anti-Compaction, Multimodal Quality Gates, and Anti-Bypass Enforcer Engine — DOI `10.5281/zenodo.24107494` (v1: `10.5281/zenodo.24097022`) | PNG: `papers/06_Diagram_Unified_3_Gear_Anti_Compaction_and_Multimodal_Engine_HM_Shihabuddin_Jashory.png`
+
+## 4. Official Vision Flow Ecosystem Domains
+- Motherbrand: https://visionflowgroup.com/
+- Creative Media & AI Engineering Agency: https://agency.visionflowgroup.com/
+- AI & Digital Engineering Academy: https://academy.visionflowgroup.com/
+- Autonomous Studio SaaS: https://studio.visionflowgroup.com/
+- Sovereign Tools Hub: https://go.visionflowgroup.com/
