@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Vision Flow Logo">
+  <title>Vision Flow</title>
+  <rect width="64" height="64" rx="14" fill="#0D0D10"/>
+  <rect x="3" y="3" width="58" height="58" rx="11.5" fill="none" stroke="#F3EFE6" stroke-width="2"/>
+  <rect x="6.5" y="6.5" width="51" height="51" rx="8.5" fill="none" stroke="#C8102E" stroke-width="1.35"/>
+  <path d="M33.2 19.5L25.8 19.5L25.6 20.1L27.0 20.3L27.6 21.0L27.6 22.1L27.1 23.2L15.4 39.1L15.2 37.9L16.9 22.1L17.9 20.5L18.8 20.1L20.3 20.1L20.6 19.5L10.5 19.5L10.5 20.1L12.6 20.3L13.6 21.3L13.6 24.5L11.5 45.5L12.1 45.5L28.5 23.2L31.5 20.5L33.2 20.1Z" fill="#F3EFE6" fill-rule="evenodd"/>
+  <path d="M53.5 19.5L33.5 19.5L33.4 20.1L35.2 20.3L36.1 21.2L35.7 24.5L30.2 42.9L28.8 44.1L26.9 44.3L26.7 44.9L36.8 44.9L36.9 44.3L34.5 43.9L33.8 43.3L33.8 42.3L36.9 32.3L41.1 32.3L42.6 32.7L43.8 34.4L43.4 36.8L44.3 36.8L46.8 27.4L46.2 27.4L44.7 29.7L43.3 30.7L41.7 31.1L37.1 31.0L40.2 20.7L48.7 20.9L50.6 22.3L51.0 23.2L50.8 26.0L51.6 26.0L53.3 19.7Z" fill="#D62839" fill-rule="evenodd"/>
+</svg>
