@@ -297,6 +297,9 @@
       align-items: center;
       justify-content: space-between;
       gap: 10px;
+      width: 100%;
+      max-width: 100%;
+      min-width: 0;
       padding: 10px 14px;
       background: #06080b;
       border: 1px solid var(--line);
@@ -306,6 +309,8 @@
       margin-bottom: 18px;
     }
     .cli-copy-box code {
+      flex: 1;
+      min-width: 0;
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
@@ -739,6 +744,16 @@
       align-items: center;
     }
 
+    .masthead-grid > *,
+    .sim-grid > *,
+    .boundary-split > *,
+    .tier-deck > *,
+    .oem-band > *,
+    .desk-grid > *,
+    .faq-grid > * {
+      min-width: 0;
+    }
+
     @media (max-width: 980px) {
       .masthead-grid,
       .sim-grid,
@@ -747,7 +762,7 @@
       .oem-band,
       .desk-grid,
       .faq-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: minmax(0, 1fr);
       }
       .sim-controls,
       .boundary-col:first-child,
