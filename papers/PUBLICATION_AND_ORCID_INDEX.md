@@ -1,4 +1,4 @@
-# Sovereign Scientific Publications, CERN Zenodo DOIs, Third-Party Credentials & Identity Equivalence Index
+# Sovereign Scientific Publications, CERN Zenodo DOIs, Third-Party Credentials & Official Name Reference Index
 
 **Principal Investigator & Lead Author:** **HM Shihabuddin Jashory** (`Shihab` — ORCID [`0009-0003-4163-0092`](https://orcid.org/0009-0003-4163-0092) · OpenAlex [`A5160247232`](https://openalex.org/A5160247232) · Google Scholar [`67paHlQAAAAJ`](https://scholar.google.com/citations?user=67paHlQAAAAJ))  
 **Co-Author & AI Evaluation Lead:** **MD Rafiul Islam Shubho** (`Shuvo` — ORCID [`0009-0009-9956-4511`](https://orcid.org/0009-0009-9956-4511) · Google Scholar [`mbBuZNgAAAAJ`](https://scholar.google.com/citations?user=mbBuZNgAAAAJ) · GitHub [`@mdrafiulislamshubho`](https://github.com/mdrafiulislamshubho))  
@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Peer-Indexed Scientific Monographs & Posters (7 CERN Zenodo DOIs)
+## 1. open-access DOI-archived Scientific Monographs & Posters (8 CERN Zenodo DOIs)
 
 | # | Type | Title | Official CERN Zenodo DOI | Vault Filename |
 | :--- | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@
 
 ---
 
-## 3. Universal Name-Variant Identity Equivalence & Research Mirrors
+## 3. Universal Name-Variant Official Name Reference & Research Mirrors
 
 - **HM Shihabuddin Jashory (`0009-0003-4163-0092` / ``)**: `HM`, `H.M.`, `HM Shihab`, `H.M. Shihab`, `HM Shihabuddin`, `H.M. Shihabuddin`, `HM Shihabuddin Jashory`, `H.M. Shihabuddin Jashory`, `MD SHIHABUDDIN`, `MD Shihabuddin`, `Md Shihabuddin`, `Md. Shihabuddin`, `MD Shihabuddin Jashory`, `Md Shihabuddin Jashory`, `MD.Shihabuddin Jashory`, `Shihabuddin Jashory`, `Shihab Jashory`, `Shihab`, `Jashory`, `এইচ এম শিহাবুদ্দিন যশোরী`, `এইচ এম শিহাব`, `মোঃ শিহাবুদ্দিন`, `শিহাবুদ্দিন যশোরী`, `শিহাব`.
 - **MD Rafiul Islam Shubho (`0009-0009-9956-4511` / ``)**: `MD Rafiul Islam Shubho`, `Md Rafiul Islam Shubho`, `Md. Rafiul Islam Shubho`, `MD. RAFIUL ISLAM SHUBHO`, `Md. Rafiul Islam`, `MD Rafiul Islam`, `Rafiul Islam Shubho`, `Md Rafiul Islam Subho`, `MD Rafiul Islam Subho`, `Shuvo`, `Shubho`, `মোঃ রাফিউল ইসলাম শুভ`, `এমডি রাফিউল ইসলাম শুভ`, `রাফিউল ইসলাম শুভ`, `শুভ` (`Google Cloud Skills`: `https://www.skills.google/public_profiles/f54d9ff2-ff13-48f5-9ea1-bd8dbff94fba`; personal/research identity under `mdrafiulislamshubho@gmail.com`, B2B agency/academy communications under `mdofvisionflow@gmail.com`).
