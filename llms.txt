@@ -52,3 +52,8 @@ Vision Flow Group is a Bangladeshi artificial intelligence research, RLHF/S2S ev
 6. **AMCG-3 Architecture Poster & Reproducibility Suite** — https://doi.org/10.5281/zenodo.24107494
 7. **VF-RLHF-S2S-2026-007 (Bilingual `bn_BD` / `en_US` RLHF & S2S Governance)** — HM Shihabuddin Jashory & MD Rafiul Islam Shubho: https://doi.org/10.5281/zenodo.24231337
 8. **VF-AI-ORCH-2026-008 (Asymmetric Dual-Model Planner-Executor Routing & Split-Brain Live Voice-to-Agent Governance)** — HM Shihabuddin Jashory: https://doi.org/10.5281/zenodo.24246882 (Monograph: https://jashory.github.io/hqas8-autonomous-agentic-governance/paper8-asymmetric-routing-monograph.html)
+
+## Open Adapter & Commercial Licensing
+
+- **AMCG-3 Open Adapter (Apache-2.0, v1.1.1):** https://github.com/jashory/grok-build-amcg3-guard (xAI Official Plugin Marketplace PR #2201: https://github.com/xai-org/plugin-marketplace/pull/2201)
+- **AMCG-3 Pro, Engineering Team & AI Lab OEM Licensing Portal:** https://jashory.github.io/hqas8-autonomous-agentic-governance/amcg3-pro.html (Direct licensing contact: contact@visionflowgroup.com)

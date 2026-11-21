@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AMCG-3 Runtime Licensing &amp; Lab OEM — Deterministic Agent Governance by HM Shihabuddin Jashory</title>
+  <link rel="icon" href="./favicon.ico?v=20261115" sizes="48x48">
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg?v=20261115">
+  <link rel="icon" type="image/png" sizes="48x48" href="./favicon-48x48.png?v=20261115">
+  <link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png?v=20261115">
+  <link rel="icon" type="image/png" sizes="192x192" href="./favicon-192x192.png?v=20261115">
+  <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png?v=20261115">
+  <meta name="description" content="Commercial Developer Pro, Engineering Team, and AI Lab / IDE OEM runtime licensing for AMCG-3 deterministic agent governance: -98.9% byte-bounded compaction digests, -85% asymmetric planner-executor routing, and zero-edit Stop gates." />
+  <meta name="author" content="HM Shihabuddin Jashory" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://jashory.github.io/hqas8-autonomous-agentic-governance/amcg3-pro.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="AMCG-3 Runtime — Developer Pro, Team &amp; AI Lab OEM Licensing" />
+  <meta property="og:description" content="Deterministic runtime governance for Grok Build, Claude Code, and custom agent harnesses. Open Apache-2.0 adapter + closed-core commercial engine." />
+  <meta property="og:url" content="https://jashory.github.io/hqas8-autonomous-agentic-governance/amcg3-pro.html" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "AMCG-3 Deterministic Agent Governance Runtime",
+  "applicationCategory": "DeveloperApplication",
+  "operatingSystem": "Linux, macOS, Windows",
+  "softwareVersion": "1.1.1",
+  "url": "https://jashory.github.io/hqas8-autonomous-agentic-governance/amcg3-pro.html",
+  "author": {
+    "@type": "Person",
+    "name": "HM Shihabuddin Jashory",
+    "url": "https://visionflowgroup.com/hm-shihabuddin-jashory/",
+    "sameAs": [
+      "https://orcid.org/0009-0003-4163-0092",
+      "https://github.com/jashory",
+      "https://scholar.google.com/citations?user=67paHlQAAAAJ"
+    ]
+  },
+  "offers": [
+    { "@type": "Offer", "name": "Open Adapter (Apache-2.0)", "price": "0", "priceCurrency": "USD" },
+    { "@type": "Offer", "name": "Developer Pro Monthly", "price": "29", "priceCurrency": "USD" },
+    { "@type": "Offer", "name": "Developer Pro Lifetime", "price": "149", "priceCurrency": "USD" },
+    { "@type": "Offer", "name": "Engineering Team Pack (10 seats)", "price": "199", "priceCurrency": "USD" }
+  ]
+}</script>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --surface: #1b2336;
+      --surface-alt: #1e293b;
+      --border: #334155;
+      --border-strong: #475569;
+      --fg: #f8fafc;
+      --muted: #94a3b8;
+      --accent: #22c55e;
+      --accent-dark: #0f172a;
+      --accent-dim: rgba(34, 197, 94, 0.12);
+      --danger: #ef4444;
+      --danger-dim: rgba(239, 68, 68, 0.12);
+      --link: #38bdf8;
+      --font-sans: 'IBM Plex Sans', system-ui, -apple-system, sans-serif;
+      --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: var(--font-sans);
+      font-size: 16px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: var(--link); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, summary:focus-visible {
+      outline: 2px solid var(--fg);
+      outline-offset: 2px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* Header */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 40;
+      background: rgba(15, 23, 42, 0.92);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      min-height: 64px;
+      flex-wrap: wrap;
+      padding: 10px 0;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      color: var(--fg);
+      font-weight: 600;
+      font-size: 15px;
+      text-decoration: none;
+    }
+    .brand img {
+      width: 28px;
+      height: 28px;
+      aspect-ratio: 1 / 1;
+      object-fit: contain;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: #0b101b;
+    }
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+      font-size: 14px;
+    }
+    .nav-links a {
+      color: var(--muted);
+      font-weight: 500;
+      transition: color 150ms ease;
+    }
+    .nav-links a:hover { color: var(--fg); text-decoration: none; }
+
+    /* Hero */
+    .hero {
+      padding: 56px 0 44px;
+      border-bottom: 1px solid var(--border);
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.95fr);
+      gap: 40px;
+      align-items: start;
+    }
+    .hero h1 {
+      margin: 0 0 18px;
+      font-size: clamp(28px, 4vw, 42px);
+      line-height: 1.18;
+      letter-spacing: -0.02em;
+      font-weight: 700;
+      max-width: 18ch;
+    }
+    .hero-lead {
+      margin: 0 0 28px;
+      color: var(--muted);
+      font-size: 17px;
+      max-width: 56ch;
+    }
+    .cta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      min-height: 44px;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-family: var(--font-sans);
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: background-color 150ms ease, border-color 150ms ease;
+      text-decoration: none;
+    }
+    .btn:hover { text-decoration: none; }
+    .btn-primary {
+      background: var(--accent);
+      color: var(--accent-dark);
+    }
+    .btn-primary:hover { background: #16a34a; }
+    .btn-secondary {
+      background: var(--surface-alt);
+      color: var(--fg);
+      border-color: var(--border-strong);
+    }
+    .btn-secondary:hover { background: #283548; border-color: #64748b; }
+
+    .hero-proof-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      font-family: var(--font-mono);
+      font-size: 12.5px;
+      color: var(--muted);
+    }
+    .hero-proof-strip span {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* Architecture boundary box */
+    .boundary-panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .boundary-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 16px;
+      background: var(--surface-alt);
+      border-bottom: 1px solid var(--border);
+      font-family: var(--font-mono);
+      font-size: 12.5px;
+      color: var(--muted);
+    }
+    .status-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 3px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 600;
+      background: var(--accent-dim);
+      color: #86efac;
+      border: 1px solid rgba(34, 197, 94, 0.35);
+    }
+    .boundary-body {
+      padding: 18px 20px;
+      font-size: 14px;
+    }
+    .boundary-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+      padding: 10px 0;
+      border-bottom: 1px solid rgba(51, 65, 85, 0.6);
+    }
+    .boundary-row:last-child { border-bottom: none; padding-bottom: 0; }
+    .boundary-label { font-weight: 500; color: var(--fg); }
+    .boundary-val {
+      font-family: var(--font-mono);
+      font-size: 12.5px;
+      color: #86efac;
+      text-align: right;
+      white-space: nowrap;
+    }
+    .boundary-val.closed { color: #93c5fd; }
+
+    /* Sections */
+    section { padding: 52px 0; border-bottom: 1px solid var(--border); }
+    section h2 {
+      margin: 0 0 10px;
+      font-size: clamp(22px, 2.8vw, 28px);
+      font-weight: 700;
+      letter-spacing: -0.015em;
+    }
+    .section-sub {
+      margin: 0 0 28px;
+      color: var(--muted);
+      max-width: 65ch;
+      font-size: 15.5px;
+    }
+
+    /* Ledger table */
+    .table-wrap {
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: var(--surface);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 660px;
+      font-size: 14px;
+    }
+    th, td {
+      text-align: left;
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      background: var(--surface-alt);
+      color: var(--muted);
+      font-weight: 600;
+      font-size: 13px;
+    }
+    tr:last-child td { border-bottom: none; }
+    .mono { font-family: var(--font-mono); font-size: 13px; }
+    .tag-open { color: #86efac; font-weight: 600; }
+    .tag-closed { color: #93c5fd; font-weight: 600; }
+    .tag-fail { color: #fca5a5; }
+
+    /* Pricing tiers */
+    .pricing-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 18px;
+    }
+    .tier {
+      display: flex;
+      flex-direction: column;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 22px 20px;
+    }
+    .tier.featured {
+      border-color: var(--accent);
+      background: #162234;
+    }
+    .tier-name {
+      font-size: 16px;
+      font-weight: 700;
+      margin: 0 0 6px;
+    }
+    .tier-price {
+      font-family: var(--font-mono);
+      font-size: 24px;
+      font-weight: 700;
+      margin: 8px 0 4px;
+      color: var(--fg);
+    }
+    .tier-cadence {
+      font-size: 13px;
+      color: var(--muted);
+      margin: 0 0 16px;
+      min-height: 20px;
+    }
+    .tier-list {
+      list-style: none;
+      margin: 0 0 22px;
+      padding: 0;
+      flex: 1;
+      font-size: 14px;
+      color: #cbd5e1;
+    }
+    .tier-list li {
+      display: flex;
+      gap: 8px;
+      align-items: flex-start;
+      margin-bottom: 10px;
+    }
+    .tier-list svg {
+      flex-shrink: 0;
+      margin-top: 3px;
+      color: var(--accent);
+    }
+
+    /* Inquiry builder */
+    .inquiry-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      gap: 28px;
+      align-items: start;
+    }
+    .form-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 24px;
+    }
+    .field { margin-bottom: 16px; }
+    .field label {
+      display: block;
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 6px;
+      color: var(--fg);
+    }
+    .field input, .field select, .field textarea {
+      width: 100%;
+      padding: 10px 12px;
+      border-radius: 6px;
+      border: 1px solid var(--border-strong);
+      background: var(--bg);
+      color: var(--fg);
+      font-family: var(--font-sans);
+      font-size: 14.5px;
+    }
+    .field textarea {
+      font-family: var(--font-mono);
+      font-size: 13px;
+      min-height: 150px;
+      resize: vertical;
+    }
+    .helper { font-size: 13px; color: var(--muted); margin-top: 6px; }
+
+    /* FAQ */
+    .faq-list { display: grid; gap: 12px; max-width: 820px; }
+    details {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px 20px;
+    }
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 15.5px;
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    summary::-webkit-details-marker { display: none; }
+    details p { margin: 12px 0 0; color: var(--muted); font-size: 14.5px; }
+
+    /* Footer */
+    footer {
+      padding: 36px 0 48px;
+      font-size: 14px;
+      color: var(--muted);
+    }
+    .footer-inner {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+      align-items: center;
+    }
+
+    @media (max-width: 980px) {
+      .hero-grid, .inquiry-grid { grid-template-columns: 1fr; }
+      .pricing-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media (max-width: 600px) {
+      .container { padding: 0 16px; }
+      .pricing-grid { grid-template-columns: 1fr; }
+      .boundary-row { flex-direction: column; gap: 4px; }
+      .boundary-val { text-align: left; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container nav-inner">
+      <a class="brand" href="./amcg3-pro.html">
+        <img src="./favicon-96x96.png?v=20261115" alt="Vision Flow mark" width="28" height="28" />
+        <span>AMCG-3 Runtime</span>
+      </a>
+      <nav class="nav-links" aria-label="Primary navigation">
+        <a href="./index.html">Research Hub</a>
+        <a href="./paper8-asymmetric-routing-monograph.html">Paper 08</a>
+        <a href="https://github.com/jashory/grok-build-amcg3-guard/releases/tag/v1.1.1" rel="noopener">GitHub v1.1.1</a>
+        <a href="https://github.com/xai-org/plugin-marketplace/pull/2201" rel="noopener">xAI Marketplace PR #2201</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <h1>Deterministic runtime governance for coding agents</h1>
+          <p class="hero-lead">
+            AMCG-3 stops encrypted-PDF HTTP 400 trajectory crashes, blocks zero-edit completion claims at the Stop gate, compresses 10.6 MB resume transcripts down to 56.4 KB (-98.9%), and cuts frontier token spend by up to 85% through asymmetric Planner-Executor routing.
+          </p>
+          <div class="cta-row">
+            <a class="btn btn-primary" href="#licensing">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+              View licensing &amp; OEM terms
+            </a>
+            <a class="btn btn-secondary" href="https://github.com/jashory/grok-build-amcg3-guard" rel="noopener">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+              Inspect open adapter (Apache-2.0)
+            </a>
+          </div>
+          <div class="hero-proof-strip">
+            <span>
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+              Zenodo DOIs: 10.5281/zenodo.24107586 &amp; 24246882
+            </span>
+            <span>
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+              Socket &amp; Semgrep passed on PR #2201
+            </span>
+          </div>
+        </div>
+
+        <aside class="boundary-panel" aria-label="Open adapter vs closed commercial core architecture">
+          <div class="boundary-head">
+            <span>ip-boundary.spec</span>
+            <span class="status-pill">SHA 0cc2c05 verified</span>
+          </div>
+          <div class="boundary-body">
+            <div class="boundary-row">
+              <span class="boundary-label">PreToolUse encrypted-PDF &amp; media guard</span>
+              <span class="boundary-val">Open (Apache-2.0)</span>
+            </div>
+            <div class="boundary-row">
+              <span class="boundary-label">Zero-edit Stop gate &amp; worktree SHA-256 diff</span>
+              <span class="boundary-val">Open (Apache-2.0)</span>
+            </div>
+            <div class="boundary-row">
+              <span class="boundary-label">CLAUDE_ENV_FILE dedupe &amp; resume bloat warning</span>
+              <span class="boundary-val">Open (Apache-2.0)</span>
+            </div>
+            <div class="boundary-row">
+              <span class="boundary-label">Byte-Bounded UTF-8 Compaction Digest (-98.9%)</span>
+              <span class="boundary-val closed">Commercial Core</span>
+            </div>
+            <div class="boundary-row">
+              <span class="boundary-label">Asymmetric Planner-Executor Router (-85% tokens)</span>
+              <span class="boundary-val closed">Commercial Core</span>
+            </div>
+            <div class="boundary-row">
+              <span class="boundary-label">4-Tier Supervisor Turn-Lock &amp; Split-Brain Voice Bus</span>
+              <span class="boundary-val closed">Commercial Core</span>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="benchmarks">
+      <div class="container">
+        <h2>Verified production failure coverage</h2>
+        <p class="section-sub">
+          Every figure below is anchored to public CERN Zenodo records, 9,165+ logged production tool steps on Hugging Face, and reproducible Linux Cloud VM runs.
+        </p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Production failure mode</th>
+                <th>Unprotected harness</th>
+                <th>Open adapter (v1.1.1)</th>
+                <th>Closed commercial core</th>
+                <th>Primary reference</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Encrypted PDF or raw binary read</td>
+                <td class="tag-fail">HTTP 400 INVALID_ARGUMENT poisons transcript permanently</td>
+                <td class="tag-open">Blocked pre-ingest in &lt;5 ms (exit 2)</td>
+                <td class="tag-closed">Auto PyMuPDF unlock + bounded text router</td>
+                <td class="mono"><a href="https://doi.org/10.5281/zenodo.24107586" rel="noopener">zenodo.24107586</a></td>
+              </tr>
+              <tr>
+                <td>Read-only turn claiming edits completed</td>
+                <td class="tag-fail">Exits 0 with agentFilesTouched: 0</td>
+                <td class="tag-open">Pre/Post SHA-256 diff + Stop gate block</td>
+                <td class="tag-closed">4-Tier Supervisor strict receipt ledger</td>
+                <td class="mono"><a href="https://github.com/xai-org/grok-build-plugin-cc/issues/33#issuecomment-6895087172" rel="noopener">grok-build#33</a></td>
+              </tr>
+              <tr>
+                <td>Long session --resume replay stall</td>
+                <td class="tag-fail">Replays 10.6 MB+ updates.jsonl linearly</td>
+                <td class="tag-open">Unbounded read cap + 2 MB log advisory</td>
+                <td class="tag-closed">10.6 MB &rarr; 56.4 KB digest (-98.9%)</td>
+                <td class="mono"><a href="https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks" rel="noopener">HF Dataset</a></td>
+              </tr>
+              <tr>
+                <td>Flagship weekly quota exhaustion</td>
+                <td class="tag-fail">Frontier model burned on grep &amp; routine sweeps</td>
+                <td class="tag-open">SessionStart env dedupe (#54)</td>
+                <td class="tag-closed">Asymmetric Planner-Executor (-85% burn)</td>
+                <td class="mono"><a href="https://doi.org/10.5281/zenodo.24246882" rel="noopener">zenodo.24246882</a></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section id="licensing">
+      <div class="container">
+        <h2>Licensing tiers &amp; AI lab OEM deals</h2>
+        <p class="section-sub">
+          Offline cryptographic license keys (HMAC-SHA256) require zero phone-home telemetry. Global card, Payoneer, and wire invoicing handled directly through Vision Flow Group.
+        </p>
+        <div class="pricing-grid">
+          <article class="tier">
+            <h3 class="tier-name">Open Adapter</h3>
+            <p class="tier-price">0 USD</p>
+            <p class="tier-cadence">Apache-2.0 forever</p>
+            <ul class="tier-list">
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>PreToolUse encrypted-PDF &amp; media guard</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Zero-edit Stop gate &amp; worktree diff check</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>CLAUDE_ENV_FILE deduplication</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>100% offline Python stdlib only</span></li>
+            </ul>
+            <a class="btn btn-secondary" href="https://github.com/jashory/grok-build-amcg3-guard/releases/tag/v1.1.1" rel="noopener">Install v1.1.1</a>
+          </article>
+
+          <article class="tier featured">
+            <h3 class="tier-name">Developer Pro</h3>
+            <p class="tier-price">29 USD/mo</p>
+            <p class="tier-cadence">or 149 USD lifetime founding key</p>
+            <ul class="tier-list">
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Full Byte-Bounded Compaction Digest (-98.9%)</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Asymmetric Planner-Executor routing profiles</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Cross-IDE state sync (Grok Build, Claude Code, Antigravity)</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Signed offline key, zero telemetry</span></li>
+            </ul>
+            <button type="button" class="btn btn-primary" onclick="selectTier('PRO_LIFETIME')">Request Pro key</button>
+          </article>
+
+          <article class="tier">
+            <h3 class="tier-name">Engineering Team</h3>
+            <p class="tier-price">199 USD/mo</p>
+            <p class="tier-cadence">Up to 10 developer seats</p>
+            <ul class="tier-list">
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Shared anti-regression Hermes experience ledger</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Deterministic CI write-verification receipts</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Custom policy gates &amp; 4-Tier Supervisor hooks</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Direct engineering onboarding</span></li>
+            </ul>
+            <button type="button" class="btn btn-secondary" onclick="selectTier('TEAM_MONTHLY')">Request Team pack</button>
+          </article>
+
+          <article class="tier">
+            <h3 class="tier-name">AI Lab / IDE OEM</h3>
+            <p class="tier-price">Custom</p>
+            <p class="tier-cadence">Runtime license or IP transfer</p>
+            <ul class="tier-list">
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Native checkpoint engine replacing updates.jsonl replay</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Split-Brain 16-24 kHz Voice-to-Agent runtime bus</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>35 U.S.C. 102(b)(1) priority window coverage</span></li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg><span>Non-exclusive or exclusive architecture deal</span></li>
+            </ul>
+            <button type="button" class="btn btn-secondary" onclick="selectTier('OEM_ENTERPRISE')">Contact architect</button>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="inquiry">
+      <div class="container">
+        <h2>Direct licensing &amp; OEM deal desk</h2>
+        <p class="section-sub">
+          Generate a structured engineering request routed directly to HM Shihabuddin Jashory at <a href="mailto:contact@visionflowgroup.com">contact@visionflowgroup.com</a>.
+        </p>
+        <div class="inquiry-grid">
+          <div class="form-card">
+            <div class="field">
+              <label for="tierSelect">License tier</label>
+              <select id="tierSelect" onchange="buildBrief()">
+                <option value="PRO_LIFETIME">Developer Pro — Lifetime Founding License (149 USD)</option>
+                <option value="PRO_MONTHLY">Developer Pro — Monthly (29 USD/mo)</option>
+                <option value="TEAM_MONTHLY">Engineering Team Pack — Up to 10 Seats (199 USD/mo)</option>
+                <option value="OEM_ENTERPRISE">AI Lab / IDE OEM Runtime License or IP Transfer</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="orgInput">Your name or organization</label>
+              <input id="orgInput" type="text" placeholder="e.g., xAI Grok Build Team / Acme Engineering" oninput="buildBrief()" />
+            </div>
+            <div class="field">
+              <label for="harnessSelect">Primary coding agent harness</label>
+              <select id="harnessSelect" onchange="buildBrief()">
+                <option value="Grok Build (xAI)">Grok Build (xAI)</option>
+                <option value="Claude Code">Claude Code</option>
+                <option value="Antigravity / Multi-CLI">Antigravity / Multi-CLI</option>
+                <option value="Custom Proprietary IDE / Lab Runtime">Custom Proprietary IDE / Lab Runtime</option>
+              </select>
+            </div>
+            <div class="cta-row" style="margin-bottom:0;">
+              <a id="mailtoBtn" class="btn btn-primary" href="mailto:contact@visionflowgroup.com">Open email client</a>
+              <button type="button" class="btn btn-secondary" onclick="copyBrief()">Copy licensing brief</button>
+            </div>
+            <p id="copyFeedback" class="helper" role="status" aria-live="polite"></p>
+          </div>
+
+          <div class="form-card">
+            <div class="field" style="margin-bottom:0;">
+              <label for="briefPreview">Generated deal brief (zero tracking, 100% client-side)</label>
+              <textarea id="briefPreview" readonly></textarea>
+              <p class="helper">Direct response channel: <span class="mono">contact@visionflowgroup.com</span> &bull; ORCID <span class="mono">0009-0003-4163-0092</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="faq">
+      <div class="container">
+        <h2>Technical &amp; security FAQ</h2>
+        <div class="faq-list">
+          <details open>
+            <summary>Does the open adapter or Pro runtime send source code or telemetry to external servers?</summary>
+            <p>No. Both the Apache-2.0 open adapter and the closed-core AMCG-3 Pro runtime execute 100% locally. Offline HMAC-SHA256 license keys verify locally without phone-home calls, and no secrets, .env files, or SSH keys are ever read.</p>
+          </details>
+          <details>
+            <summary>What is the exact boundary between the open GitHub repo and the commercial core?</summary>
+            <p>The public repository (<a href="https://github.com/jashory/grok-build-amcg3-guard" rel="noopener">jashory/grok-build-amcg3-guard</a>, submitted to xAI Plugin Marketplace in <a href="https://github.com/xai-org/plugin-marketplace/pull/2201" rel="noopener">PR #2201</a>) ships strictly the lightweight hook adapter for encrypted-PDF blocking, worktree SHA-256 diff verification, and environment deduplication. The Byte-Bounded UTF-8 Compaction Digest engine (-98.9%), Asymmetric Planner-Executor Orchestrator (-85% frontier token burn), 4-Tier Supervisor Turn-Lock, and Split-Brain Live Voice Bus remain proprietary commercial IP.</p>
+          </details>
+          <details>
+            <summary>How is prior art established for OEM or IP acquisition due diligence?</summary>
+            <p>All architectural specifications are permanently archived with CERN Zenodo DOIs (<a href="https://doi.org/10.5281/zenodo.24107586" rel="noopener">10.5281/zenodo.24107586</a> and <a href="https://doi.org/10.5281/zenodo.24246882" rel="noopener">10.5281/zenodo.24246882</a>), linked to ORCID <a href="https://orcid.org/0009-0003-4163-0092" rel="noopener">0009-0003-4163-0092</a>, and backed by public Hugging Face benchmark telemetry.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <div>
+        <strong>HM Shihabuddin Jashory</strong> &mdash; Principal AI Systems Architect, <a href="https://visionflowgroup.com/hm-shihabuddin-jashory/" rel="noopener">Vision Flow Group</a>
+      </div>
+      <div class="mono">
+        <a href="mailto:contact@visionflowgroup.com">contact@visionflowgroup.com</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function selectTier(tierVal) {
+      document.getElementById('tierSelect').value = tierVal;
+      buildBrief();
+      document.getElementById('inquiry').scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function buildBrief() {
+      const tierEl = document.getElementById('tierSelect');
+      const tierLabel = tierEl.options[tierEl.selectedIndex].text;
+      const org = (document.getElementById('orgInput').value || '').trim() || '[Your Name / Team]';
+      const harness = document.getElementById('harnessSelect').value;
+
+      const body = [
+        'AMCG-3 Commercial Licensing / OEM Inquiry',
+        '=========================================',
+        'Requested Tier : ' + tierLabel,
+        'Contact / Org  : ' + org,
+        'Target Harness : ' + harness,
+        'Reference Repo : https://github.com/jashory/grok-build-amcg3-guard (v1.1.1 / SHA 0cc2c05)',
+        'Reference DOIs : 10.5281/zenodo.24107586 & 10.5281/zenodo.24246882',
+        '',
+        'Notes / Seat Count / Integration Scope:',
+        '- '
+      ].join('\n');
+
+      document.getElementById('briefPreview').value = body;
+      const subject = encodeURIComponent('[AMCG-3 Licensing] ' + tierEl.value + ' — ' + org);
+      document.getElementById('mailtoBtn').href = 'mailto:contact@visionflowgroup.com?subject=' + subject + '&body=' + encodeURIComponent(body);
+    }
+
+    function copyBrief() {
+      const txt = document.getElementById('briefPreview').value;
+      const fb = document.getElementById('copyFeedback');
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(txt).then(function() {
+          fb.textContent = 'Copied licensing brief to clipboard. Paste into any email to contact@visionflowgroup.com.';
+        }).catch(function() {
+          fb.textContent = 'Select the text box on the right and press Ctrl+C / Cmd+C to copy.';
+        });
+      } else {
+        fb.textContent = 'Select the text box on the right and press Ctrl+C / Cmd+C to copy.';
+      }
+    }
+
+    buildBrief();
+  </script>
+</body>
+</html>
