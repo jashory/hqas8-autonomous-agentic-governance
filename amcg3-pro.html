@@ -564,29 +564,29 @@
               <tr>
                 <td>Encrypted PDF or raw binary read</td>
                 <td class="tag-fail">HTTP 400 INVALID_ARGUMENT poisons transcript permanently</td>
-                <td class="tag-open">Blocked pre-ingest in &lt;5 ms (exit 2)</td>
-                <td class="tag-closed">Auto PyMuPDF unlock + bounded text router</td>
+                <td class="tag-open">Blocked pre-ingest in ~50 ms CLI / &lt;5 ms daemon (exit 2)</td>
+                <td class="tag-closed">Auto PyMuPDF / poppler unlock + bounded UTF-8 router</td>
                 <td class="mono"><a href="https://doi.org/10.5281/zenodo.24107586" rel="noopener">zenodo.24107586</a></td>
               </tr>
               <tr>
                 <td>Read-only turn claiming edits completed</td>
                 <td class="tag-fail">Exits 0 with agentFilesTouched: 0</td>
-                <td class="tag-open">Pre/Post SHA-256 diff + Stop gate block</td>
+                <td class="tag-open">Pre/Post SHA-256 diff + Stop gate block (~54 ms, exit 2)</td>
                 <td class="tag-closed">4-Tier Supervisor strict receipt ledger</td>
                 <td class="mono"><a href="https://github.com/xai-org/grok-build-plugin-cc/issues/33#issuecomment-6895087172" rel="noopener">grok-build#33</a></td>
               </tr>
               <tr>
                 <td>Long session --resume replay stall</td>
-                <td class="tag-fail">Replays 10.6 MB+ updates.jsonl linearly</td>
+                <td class="tag-fail">Replays 10.67 MB+ updates.jsonl linearly</td>
                 <td class="tag-open">Unbounded read cap + 2 MB log advisory</td>
-                <td class="tag-closed">10.6 MB &rarr; 56.4 KB digest (-98.9%)</td>
+                <td class="tag-closed">10.67 MB &rarr; 27 KB digest (-99.7%) in 29.7 ms</td>
                 <td class="mono"><a href="https://huggingface.co/datasets/Jashory/hqas8-amcg3-governance-benchmarks" rel="noopener">HF Dataset</a></td>
               </tr>
               <tr>
                 <td>Flagship weekly quota exhaustion</td>
                 <td class="tag-fail">Frontier model burned on grep &amp; routine sweeps</td>
                 <td class="tag-open">SessionStart env dedupe (#54)</td>
-                <td class="tag-closed">Asymmetric Planner-Executor (-85% burn)</td>
+                <td class="tag-closed">Asymmetric Planner-Executor (75-85% burn saved)</td>
                 <td class="mono"><a href="https://doi.org/10.5281/zenodo.24246882" rel="noopener">zenodo.24246882</a></td>
               </tr>
             </tbody>
@@ -599,7 +599,7 @@
       <div class="container">
         <h2>Licensing tiers &amp; AI lab OEM deals</h2>
         <p class="section-sub">
-          Offline cryptographic license keys (HMAC-SHA256) require zero phone-home telemetry. Global card, Payoneer, and wire invoicing handled directly through Vision Flow Group.
+          Offline RSA-2048 cryptographic license keys (RS256, zero external dependencies) require zero phone-home telemetry. Global checkout, 14-day AI Lab evaluator keys, Payoneer, and wire invoicing are fulfilled with the signed AMCG-3 Pro v1.1.1 release archive via <a href="mailto:contact@visionflowgroup.com">contact@visionflowgroup.com</a>.
         </p>
         <div class="pricing-grid">
           <article class="tier">
@@ -671,6 +671,7 @@
                 <option value="PRO_LIFETIME">Developer Pro — Lifetime Founding License (149 USD)</option>
                 <option value="PRO_MONTHLY">Developer Pro — Monthly (29 USD/mo)</option>
                 <option value="TEAM_MONTHLY">Engineering Team Pack — Up to 10 Seats (199 USD/mo)</option>
+                <option value="EVALUATOR">14-Day AI Lab Evaluator Key + AMCG-3 Pro Kit (xAI / Lab Maintainers)</option>
                 <option value="OEM_ENTERPRISE">AI Lab / IDE OEM Runtime License or IP Transfer</option>
               </select>
             </div>
@@ -711,7 +712,7 @@
         <div class="faq-list">
           <details open>
             <summary>Does the open adapter or Pro runtime send source code or telemetry to external servers?</summary>
-            <p>No. Both the Apache-2.0 open adapter and the closed-core AMCG-3 Pro runtime execute 100% locally. Offline HMAC-SHA256 license keys verify locally without phone-home calls, and no secrets, .env files, or SSH keys are ever read.</p>
+            <p>No. Both the Apache-2.0 open adapter and the closed-core AMCG-3 Pro runtime execute 100% locally. Offline RSA-2048 license keys verify locally with Python built-in modular exponentiation without phone-home calls, and no secrets, .env files, or SSH keys are ever read.</p>
           </details>
           <details>
             <summary>What is the exact boundary between the open GitHub repo and the commercial core?</summary>
