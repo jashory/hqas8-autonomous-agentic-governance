@@ -144,7 +144,7 @@ flowchart TB
 
 ## Global Ecosystem & Category Benchmark Pages
 
-- [Global Ecosystem & Knowledge Graph Authority Index](https://jashory.github.io/ecosystem-authority-index.html)
+- [Publications, Software & Division Directory](https://jashory.github.io/ecosystem-authority-index.html)
 - [Bangladesh AI, Cybersecurity & Software Engineering Benchmark](https://visionflowgroup.com/ai-agency-bangladesh/)
 - [Security, Google VRP & CERN Zenodo Verification Ledger](https://visionflowgroup.com/security-hall-of-fame/)
 - [Bilingual RLHF & S2S Evaluation Lab](https://visionflowgroup.com/ai-research-rlhf-bangladesh/)
