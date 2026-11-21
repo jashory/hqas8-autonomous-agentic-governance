@@ -56,6 +56,7 @@ Vision Flow Group is an artificial intelligence systems engineering, offensive a
 1. **mcp-agent-security-auditor** — AST & config security scanner for Model Context Protocol (MCP) servers and Firebase rules: https://pypi.org/project/mcp-agent-security-auditor/ (GitHub: https://github.com/jashory/mcp-agent-security-auditor)
 2. **infinite-llm-fallback-router** — Zero-downtime multi-provider LLM fallback and circuit-breaker router: https://pypi.org/project/infinite-llm-fallback-router/ (GitHub: https://github.com/jashory/infinite-llm-fallback-router)
 3. **agy-claude-crash-guard-kit** — Deterministic PreToolUse binary guard and post-compaction recovery toolkit for CLI agents: https://pypi.org/project/agy-claude-crash-guard-kit/ (GitHub: https://github.com/jashory/agy-claude-crash-guard-kit)
+4. **grok-build-amcg3-guard (`v1.1.1`) & AMCG-3 Runtime Pro** — Pure-stdlib PreToolUse encrypted-PDF firewall, zero-edit Stop gate (`grok-build-plugin-cc#33`), `-99.7%` byte-bounded compaction digest (`#40`), and asymmetric Planner-Executor cost router (`75–85%` frontier burn saved): https://github.com/jashory/grok-build-amcg3-guard | Commercial Runtime & OEM Portal: https://jashory.github.io/hqas8-autonomous-agentic-governance/amcg3-pro.html | Instant Storefront: https://shihabjessore.gumroad.com/l/amcg3-pro
 
 ## Open-Access DOI-Archived Publications (8 Zenodo DOIs, 1 Figshare DataCite DOI & 3 OSF MetaArXiv Preprints)
 
