@@ -1,14 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Vision Flow Logo">
-  <title>Vision Flow</title>
-  <defs>
-    <linearGradient id="vfG" x1="8" y1="46" x2="56" y2="16" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#F8FAFC"/>
-      <stop offset="0.52" stop-color="#E2F8FF"/>
-      <stop offset="1" stop-color="#00E5FF"/>
-    </linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="14" fill="#070B12"/>
-  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#22D3EE" stroke-opacity="0.32" stroke-width="1.5"/>
-  <path d="M35.94 38.57L35.66 38.78L35.24 38.78L32.31 40.11L27.44 48.43L30.43 48.43ZM5.49 17.53L13.15 30.18L23.81 48.43L23.95 48.43L25.49 45.07L27.44 42.07L29.39 40.04L31.90 38.43L34.54 37.52L37.33 37.10L47.78 37.24L52.45 29.20L39.84 29.20L39.77 29.06L41.86 25.57L54.12 25.57L58.86 17.60L39.07 17.53L38.38 17.67L37.82 18.02L37.12 18.72L35.17 21.86L26.11 37.24L28.20 36.12L30.01 35.43L33.71 28.99L39.21 19.97L54.47 19.90L54.54 20.04L52.73 23.12L40.47 23.12L35.38 31.58L35.38 31.72L48.06 31.65L48.13 31.86L46.32 34.80L36.70 34.87L34.40 35.22L31.83 35.99L29.46 37.17L27.37 38.78L25.14 41.30L23.81 43.54L17.12 31.93L9.88 20.04L12.66 19.97L22.77 36.96L29.94 24.03L31.76 21.09L32.45 20.18L33.92 18.79L34.89 18.09L36.01 17.60L34.89 17.74L32.94 18.37L31.20 19.35L29.39 20.88L27.44 23.47L22.70 32.14L14.13 17.53Z" fill="url(#vfG)" fill-rule="evenodd"/>
-  <path d="M37.40 37.80L36.84 37.66L36.08 37.80L36.22 37.80L36.22 37.94L35.94 37.80L33.64 38.29L31.76 39.06L30.43 39.83L29.04 40.95L27.92 42.14L26.32 44.44L24.79 47.24L25.62 45.91L27.51 43.54L29.25 41.79L30.22 41.02L32.38 39.69L33.85 38.99Z" fill="#06B6D4" fill-rule="evenodd"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <circle cx="64" cy="64" r="61" fill="#f3efe6" stroke="#111111" stroke-width="5"/>
+  <circle cx="64" cy="64" r="53" fill="none" stroke="#8b1e1e" stroke-width="2.2"/>
+  <text x="27" y="84" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="60" fill="#111111">V</text>
+  <text x="64" y="84" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="60" fill="#8b1e1e">F</text>
 </svg>
